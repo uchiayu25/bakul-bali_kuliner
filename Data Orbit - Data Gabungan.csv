@@ -1,0 +1,814 @@
+ID_Tempat,Nama_Tempat,ID_User,Nama_User,Daerah,Latitude,Longitude,Rating,Telepon
+t0001,"Babi Guling & Siobak Singaraja ""Sandi""",u0035,agus upinn,Denpasar Utara,"-8,636,253","115,193,073",5,85965900360
+t0001,"Babi Guling & Siobak Singaraja ""Sandi""",u0057,anandha putra i gusti putu,Denpasar Utara,"-8,636,253","115,193,073",5,85965900360
+t0001,"Babi Guling & Siobak Singaraja ""Sandi""",u0293,gede restu,Denpasar Utara,"-8,636,253","115,193,073",5,85965900360
+t0001,"Babi Guling & Siobak Singaraja ""Sandi""",u0297,GEDE SUMPENA,Denpasar Utara,"-8,636,253","115,193,073",2,85965900360
+t0001,"Babi Guling & Siobak Singaraja ""Sandi""",u0349,I KADEK WIRAWAN,Denpasar Utara,"-8,636,253","115,193,073",5,85965900360
+t0001,"Babi Guling & Siobak Singaraja ""Sandi""",u0356,I Made Riawan,Denpasar Utara,"-8,636,253","115,193,073",5,85965900360
+t0001,"Babi Guling & Siobak Singaraja ""Sandi""",u0531,Mr. J,Denpasar Utara,"-8,636,253","115,193,073",5,85965900360
+t0001,"Babi Guling & Siobak Singaraja ""Sandi""",u0542,NàRARYA BALI OKSIGEN,Denpasar Utara,"-8,636,253","115,193,073",5,85965900360
+t0001,"Babi Guling & Siobak Singaraja ""Sandi""",u0640,Rizka Ramadhani,Denpasar Utara,"-8,636,253","115,193,073",5,85965900360
+t0001,"Babi Guling & Siobak Singaraja ""Sandi""",u0641,Robby Tanod,Denpasar Utara,"-8,636,253","115,193,073",4,85965900360
+t0002,Wr. Babi Guling Mawar,u0016,Adi Mulyawan,Denpasar Utara,"-8,627,955","115,208,472",1,81805313408
+t0002,Wr. Babi Guling Mawar,u0027,Agung Widiantara,Denpasar Utara,"-8,627,955","115,208,472",5,81805313408
+t0002,Wr. Babi Guling Mawar,u0060,Andi Wiguna,Denpasar Utara,"-8,627,955","115,208,472",5,81805313408
+t0002,Wr. Babi Guling Mawar,u0088,Ari Kusuma,Denpasar Utara,"-8,627,955","115,208,472",5,81805313408
+t0002,Wr. Babi Guling Mawar,u0288,G Olivia,Denpasar Utara,"-8,627,955","115,208,472",5,81805313408
+t0002,Wr. Babi Guling Mawar,u0355,I Made Darma Putra,Denpasar Utara,"-8,627,955","115,208,472",5,81805313408
+t0002,Wr. Babi Guling Mawar,u0514,Mega Utami,Denpasar Utara,"-8,627,955","115,208,472",5,81805313408
+t0002,Wr. Babi Guling Mawar,u0516,Mel Di,Denpasar Utara,"-8,627,955","115,208,472",5,81805313408
+t0002,Wr. Babi Guling Mawar,u0617,Rah Ajunk,Denpasar Utara,"-8,627,955","115,208,472",5,81805313408
+t0002,Wr. Babi Guling Mawar,u0626,Reny Lianti,Denpasar Utara,"-8,627,955","115,208,472",5,81805313408
+t0003,Wr. Makan Pak Joni,u0028,agus diyatmika,Denpasar Selatan,"-87,027,762","1,152,305,969",4,85237101606
+t0003,Wr. Makan Pak Joni,u0137,Benita Ayu Chrystallia Jaya,Denpasar Selatan,"-87,027,762","1,152,305,969",5,85237101606
+t0003,Wr. Makan Pak Joni,u0335,Hermawan Erik,Denpasar Selatan,"-87,027,762","1,152,305,969",5,85237101606
+t0003,Wr. Makan Pak Joni,u0338,Heru Prass,Denpasar Selatan,"-87,027,762","1,152,305,969",1,85237101606
+t0003,Wr. Makan Pak Joni,u0360,I Nyoman Dicky Wijaya,Denpasar Selatan,"-87,027,762","1,152,305,969",5,85237101606
+t0003,Wr. Makan Pak Joni,u0364,I Wayan Danu Saputra,Denpasar Selatan,"-87,027,762","1,152,305,969",5,85237101606
+t0003,Wr. Makan Pak Joni,u0467,Laurentia Jessica,Denpasar Selatan,"-87,027,762","1,152,305,969",5,85237101606
+t0003,Wr. Makan Pak Joni,u0684,Suiraoka I Putu,Denpasar Selatan,"-87,027,762","1,152,305,969",5,85237101606
+t0003,Wr. Makan Pak Joni,u0701,Terapis Gigi dan Mulut 31 Desember 2016 part 1,Denpasar Selatan,"-87,027,762","1,152,305,969",5,85237101606
+t0003,Wr. Makan Pak Joni,u0758,Wulan Suniti Pucangan,Denpasar Selatan,"-87,027,762","1,152,305,969",5,85237101606
+t0004,Wr. Babi Guling Cahaya Bintang Tina,u0026,Agung Cahya,Denpasar Utara,"-8,636,147","115,210,471",5,81236381964
+t0004,Wr. Babi Guling Cahaya Bintang Tina,u0051,Amir Boy Boy,Denpasar Utara,"-8,636,147","115,210,471",4,81236381964
+t0004,Wr. Babi Guling Cahaya Bintang Tina,u0133,BATOK KALAPA,Denpasar Utara,"-8,636,147","115,210,471",5,81236381964
+t0004,Wr. Babi Guling Cahaya Bintang Tina,u0186,Dananjaya,Denpasar Utara,"-8,636,147","115,210,471",3,81236381964
+t0004,Wr. Babi Guling Cahaya Bintang Tina,u0251,eka sanjaya,Denpasar Utara,"-8,636,147","115,210,471",4,81236381964
+t0004,Wr. Babi Guling Cahaya Bintang Tina,u0292,Gede Juliantara,Denpasar Utara,"-8,636,147","115,210,471",5,81236381964
+t0004,Wr. Babi Guling Cahaya Bintang Tina,u0379,Indra Pramadewa,Denpasar Utara,"-8,636,147","115,210,471",5,81236381964
+t0004,Wr. Babi Guling Cahaya Bintang Tina,u0449,Komang Komang,Denpasar Utara,"-8,636,147","115,210,471",5,81236381964
+t0004,Wr. Babi Guling Cahaya Bintang Tina,u0721,Umam Is Name,Denpasar Utara,"-8,636,147","115,210,471",4,81236381964
+t0004,Wr. Babi Guling Cahaya Bintang Tina,u0723,V A,Denpasar Utara,"-8,636,147","115,210,471",5,81236381964
+t0005,Wr. Babi Guling Sandi,u0090,Ari Wirajaya,Denpasar Utara,"-8,615,789","115,212,484",5,81999588028
+t0005,Wr. Babi Guling Sandi,u0197,Dea Nathania Praba,Denpasar Utara,"-8,615,789","115,212,484",5,81999588028
+t0005,Wr. Babi Guling Sandi,u0223,Didi Ndangga,Denpasar Utara,"-8,615,789","115,212,484",1,81999588028
+t0005,Wr. Babi Guling Sandi,u0320,harry setiawan,Denpasar Utara,"-8,615,789","115,212,484",5,81999588028
+t0005,Wr. Babi Guling Sandi,u0439,Keyza Anjali,Denpasar Utara,"-8,615,789","115,212,484",5,81999588028
+t0005,Wr. Babi Guling Sandi,u0456,Krsna Satyanda,Denpasar Utara,"-8,615,789","115,212,484",4,81999588028
+t0005,Wr. Babi Guling Sandi,u0531,Mr. J,Denpasar Utara,"-8,615,789","115,212,484",5,81999588028
+t0005,Wr. Babi Guling Sandi,u0557,Nita Pebri,Denpasar Utara,"-8,615,789","115,212,484",1,81999588028
+t0005,Wr. Babi Guling Sandi,u0568,Octavianus Arnanto Pratama,Denpasar Utara,"-8,615,789","115,212,484",5,81999588028
+t0005,Wr. Babi Guling Sandi,u0673,Silvano Kampong,Denpasar Utara,"-8,615,789","115,212,484",5,81999588028
+t0006,Warung Bu Desak,u0145,Bonifasius Zebua,Denpasar Utara,"-8,613,435","115,212,962",3,82144036768
+t0006,Warung Bu Desak,u0230,Distributor K-link Bali,Denpasar Utara,"-8,613,435","115,212,962",5,82144036768
+t0006,Warung Bu Desak,u0251,Eka Nofy,Denpasar Utara,"-8,613,435","115,212,962",5,82144036768
+t0006,Warung Bu Desak,u0327,Hendri fahlevi,Denpasar Utara,"-8,613,435","115,212,962",4,82144036768
+t0006,Warung Bu Desak,u0383,intan kurnia,Denpasar Utara,"-8,613,435","115,212,962",5,82144036768
+t0006,Warung Bu Desak,u0480,Luh Widiani,Denpasar Utara,"-8,613,435","115,212,962",5,82144036768
+t0006,Warung Bu Desak,u0643,Ronie,Denpasar Utara,"-8,613,435","115,212,962",5,82144036768
+t0006,Warung Bu Desak,u0675,sintya widisari,Denpasar Utara,"-8,613,435","115,212,962",5,82144036768
+t0006,Warung Bu Desak,u0686,Sulaeman bakri,Denpasar Utara,"-8,613,435","115,212,962",5,82144036768
+t0006,Warung Bu Desak,u0698,Teddy Martadinata,Denpasar Utara,"-8,613,435","115,212,962",5,82144036768
+t0007,Warung Nasi Ayam Betutu,u0010,A.A. Ngurah Bayu Kresna Wardana,Denpasar Utara,"-862,923","11,521,781",5,85237209911
+t0007,Warung Nasi Ayam Betutu,u0152,Budindra 88,Denpasar Utara,"-862,923","11,521,781",3,85237209911
+t0007,Warung Nasi Ayam Betutu,u0182,Cok Dewi,Denpasar Utara,"-862,923","11,521,781",5,85237209911
+t0007,Warung Nasi Ayam Betutu,u0333,Henry Wima,Denpasar Utara,"-862,923","11,521,781",5,85237209911
+t0007,Warung Nasi Ayam Betutu,u0345,I GEDE DIARSANA,Denpasar Utara,"-8,626,252","11,520,804",5,85237209911
+t0007,Warung Nasi Ayam Betutu,u0359,i nengah separiana,Denpasar Utara,"-862,923","11,521,781",5,85237209911
+t0007,Warung Nasi Ayam Betutu,u0437,kevin bali,Denpasar Utara,"-862,923","11,521,781",5,85237209911
+t0007,Warung Nasi Ayam Betutu,u0481,Luhur Arga,Denpasar Utara,"-862,923","11,521,781",5,85237209911
+t0007,Warung Nasi Ayam Betutu,u0484,Made Anie Supatni Samba,Denpasar Utara,"-862,923","11,521,781",5,85237209911
+t0007,Warung Nasi Ayam Betutu,u0548,Ngurah Dwika,Denpasar Utara,"-862,923","11,521,781",5,85237209911
+t0008,Nasi Tempong Bu Bella,u0032,Agus pradipta,Denpasar Selatan,"-870,022","11,518,114",1,87861187505
+t0008,Nasi Tempong Bu Bella,u0233,Djoe Avarell,Denpasar Selatan,"-870,022","11,518,114",5,87861187505
+t0008,Nasi Tempong Bu Bella,u0258,Emal Wijaya,Denpasar Selatan,"-870,022","11,518,114",5,87861187505
+t0008,Nasi Tempong Bu Bella,u0272,Febriyadi Karyono,Denpasar Selatan,"-870,022","11,518,114",5,87861187505
+t0008,Nasi Tempong Bu Bella,u0390,Irwin R Ferdiansyah,Denpasar Selatan,"-870,022","11,518,114",5,87861187505
+t0008,Nasi Tempong Bu Bella,u0401,Jana Jans,Denpasar Selatan,"-870,022","115,213,473",4,87861187505
+t0008,Nasi Tempong Bu Bella,u0475,Lion Project,Denpasar Selatan,"-870,022","11,518,114",5,87861187505
+t0008,Nasi Tempong Bu Bella,u0573,Oki Tensao,Denpasar Selatan,"-870,022","11,518,114",5,87861187505
+t0008,Nasi Tempong Bu Bella,u0720,Udi Joes,Denpasar Selatan,"-870,022","11,518,114",1,87861187505
+t0008,Nasi Tempong Bu Bella,u0760,Xionglue Xiu Juan,Denpasar Selatan,"-870,022","11,518,114",5,87861187505
+t0009,Warung Makan MJ,u0021,Adnyana,Denpasar Utara,"-860,235","115,214,203",5,85739410713
+t0009,Warung Makan MJ,u0046,Alif Satriyo wicaksono,Denpasar Utara,"-860,235","115,214,203",4,85739410713
+t0009,Warung Makan MJ,u0054,Anak Agung Ngurah Rai,Denpasar Utara,"-860,235","115,214,203",5,85739410713
+t0009,Warung Makan MJ,u0119,Ayu Cocom,Denpasar Utara,"-860,235","115,214,203",4,85739410713
+t0009,Warung Makan MJ,u0422,Kadek Ray,Denpasar Utara,"-860,235","115,214,203",5,85739410713
+t0009,Warung Makan MJ,u0490,Made Sartono,Denpasar Utara,"-860,235","115,214,203",5,85739410713
+t0009,Warung Makan MJ,u0533,Muhammad said,Denpasar Utara,"-860,235","115,214,203",5,85739410713
+t0009,Warung Makan MJ,u0581,Parama Putra,Denpasar Utara,"-860,235","115,214,203",4,85739410713
+t0009,Warung Makan MJ,u0682,Street Angel,Denpasar Utara,"-860,235","115,214,203",4,85739410713
+t0009,Warung Makan MJ,u0716,tromol kuning,Denpasar Utara,"-860,235","115,214,203",4,85739410713
+t0010,Warung Adi,u0059,Andi Irawan,Denpasar Selatan,"-87,018,291","1,152,332,273",1,89678275868
+t0010,Warung Adi,u0154,Bunny Lov,Denpasar Selatan,"-87,018,291","1,152,332,273",5,89678275868
+t0010,Warung Adi,u0195,De Dwi Saptarahadi,Denpasar Selatan,"-87,018,291","1,152,332,273",5,89678275868
+t0010,Warung Adi,u0289,Galih Ratih,Denpasar Selatan,"-87,018,291","1,152,332,273",5,89678275868
+t0010,Warung Adi,u0386,Ipunk Purwani,Denpasar Selatan,"-87,018,291","1,152,332,273",1,89678275868
+t0010,Warung Adi,u0463,LanaJoe,Denpasar Selatan,"-87,018,291","1,152,332,273",4,89678275868
+t0010,Warung Adi,u0486,Made Dhasi Suryawan,Denpasar Selatan,"-87,018,291","1,152,332,273",5,89678275868
+t0010,Warung Adi,u0559,Nofen Tri,Denpasar Selatan,"-87,018,291","1,152,332,273",1,89678275868
+t0010,Warung Adi,u0616,Raditya Nararya Ediansyah,Denpasar Selatan,"-87,018,291","1,152,332,273",4,89678275868
+t0010,Warung Adi,u0773,Yuanita Yuanita,Denpasar Selatan,"-87,018,291","1,152,332,273",4,89678275868
+t0011,Wr. Murni Asih,u0151,Budi Suyasa,Denpasar Selatan,"-8,678,132","115,224,462",5,81236155803
+t0011,Wr. Murni Asih,u0185,Danagiri Cen,Denpasar Selatan,"-8,678,132","115,224,462",5,81236155803
+t0011,Wr. Murni Asih,u0189,Darma Adnyana,Denpasar Selatan,"-8,678,132","115,224,462",3,81236155803
+t0011,Wr. Murni Asih,u0229,Dirut Bento,Denpasar Selatan,"-8,678,132","115,224,462",5,81236155803
+t0011,Wr. Murni Asih,u0332,Henny Trisna Dewi,Denpasar Selatan,"-8,678,132","115,224,462",4,81236155803
+t0011,Wr. Murni Asih,u0380,Indra Pranata,Denpasar Selatan,"-8,678,132","115,224,462",5,81236155803
+t0011,Wr. Murni Asih,u0419,Juni Suarnita,Denpasar Selatan,"-8,678,132","115,224,462",5,81236155803
+t0011,Wr. Murni Asih,u0457,Kurniawan Joko Purnomo,Denpasar Selatan,"-8,678,132","115,224,462",4,81236155803
+t0011,Wr. Murni Asih,u0576,Ovie Tumober,Denpasar Selatan,"-8,678,132","115,224,462",5,81236155803
+t0011,Wr. Murni Asih,u0623,Randy Hutagalung (Randy),Denpasar Selatan,"-8,678,132","115,224,462",5,81236155803
+t0012,Warung Babi Guling Mawar 2,u0131,Baruna Art,Denpasar Timur,"-8,681,042","115,237,832",5,081 79762312
+t0012,Warung Babi Guling Mawar 2,u0202,Dedy Sugirama,Denpasar Timur,"-8,681,042","115,237,832",4,081 79762312
+t0012,Warung Babi Guling Mawar 2,u0343,I B SuArka,Denpasar Timur,"-8,681,042","115,237,832",5,081 79762312
+t0012,Warung Babi Guling Mawar 2,u0370,ida bgs komang Kencaka putra,Denpasar Timur,"-8,681,042","115,237,832",1,081 79762312
+t0012,Warung Babi Guling Mawar 2,u0452,Komang Suta Widyarta,Denpasar Timur,"-8,681,042","115,237,832",4,081 79762312
+t0012,Warung Babi Guling Mawar 2,u0462,LALALAND me,Denpasar Timur,"-8,681,042","115,237,832",5,081 79762312
+t0012,Warung Babi Guling Mawar 2,u0477,Local Trip,Denpasar Timur,"-8,681,042","115,237,832",3,081 79762312
+t0012,Warung Babi Guling Mawar 2,u0649,Rusdi Hen,Denpasar Timur,"-8,681,042","115,237,832",4,081 79762312
+t0012,Warung Babi Guling Mawar 2,u0728,Vera Wati,Denpasar Timur,"-8,681,042","115,237,832",5,081 79762312
+t0013,Wr. Nabe Bali,u0002,13_Ida Ayu Cahaya Maheswari,Denpasar Timur,"-8,648,865","115,230,628",5,82144001343
+t0013,Wr. Nabe Bali,u0241,Dwix Raka Mudiarta,Denpasar Timur,"-8,648,865","115,230,628",5,82144001343
+t0013,Wr. Nabe Bali,u0336,Herri Susanto,Denpasar Timur,"-8,648,865","115,230,628",5,82144001343
+t0013,Wr. Nabe Bali,u0351,I Ketut Darmayasa,Denpasar Timur,"-8,648,865","115,230,628",5,82144001343
+t0013,Wr. Nabe Bali,u0651,Sagung Sawitri,Denpasar Timur,"-8,648,865","115,230,628",5,82144001343
+t0014,Warung Suastina,u0464,LAPERBERLIMA,Denpasar Barat,"-864,633","115,185,824",4,81999918742
+t0014,Warung Suastina,u0730,Vince Guan,Denpasar Barat,"-864,633","115,185,824",5,81999918742
+t0015,Warung Made,u0004,28 Ni Made Risma Handayani,Denpasar Timur,"-866,458","115,240,064",5,85238251876
+t0015,Warung Made,u0018,Adina Larasati,Denpasar Timur,"-866,458","115,240,064",4,85238251876
+t0015,Warung Made,u0064,Anekcen Erop,Denpasar Timur,"-866,458","115,240,064",5,85238251876
+t0015,Warung Made,u0087,Ardana Adiputra,Denpasar Timur,"-866,458","115,240,064",5,85238251876
+t0015,Warung Made,u0091,arie widyastuti,Denpasar Timur,"-866,458","115,240,064",5,85238251876
+t0015,Warung Made,u0111,Atika Aminuddin,Denpasar Timur,"-866,458","115,240,064",4,85238251876
+t0015,Warung Made,u0147,Brengkengan,Denpasar Timur,"-866,458","115,240,064",5,85238251876
+t0015,Warung Made,u0294,Gede Saskara,Denpasar Timur,"-866,458","115,240,064",5,85238251876
+t0015,Warung Made,u0521,Mia Marina,Denpasar Timur,"-866,458","115,240,064",5,85238251876
+t0015,Warung Made,u0732,Vincent Rusmanto,Denpasar Timur,"-866,458","115,240,064",5,85238251876
+t0016,Warung Nasi Bu Sari,u0235,Doni Trisetyo Edi,Denpasar Timur,"-8,641,578","115,230,677",5,81916600136
+t0016,Warung Nasi Bu Sari,u0284,Frido Iijin,Denpasar Timur,"-8,641,578","115,230,677",5,81916600136
+t0016,Warung Nasi Bu Sari,u0353,I Ketut Sudarsana,Denpasar Timur,"-8,641,578","115,230,677",5,81916600136
+t0016,Warung Nasi Bu Sari,u0395,IVDY ID,Denpasar Timur,"-8,641,578","115,230,677",5,81916600136
+t0016,Warung Nasi Bu Sari,u0420,Juniada Ydms,Denpasar Timur,"-8,641,578","115,230,677",5,81916600136
+t0016,Warung Nasi Bu Sari,u0501,Manik sugiarta,Denpasar Timur,"-8,641,578","115,230,677",4,81916600136
+t0016,Warung Nasi Bu Sari,u0560,noni leony,Denpasar Timur,"-8,641,578","115,230,677",5,81916600136
+t0016,Warung Nasi Bu Sari,u0604,putu dewi,Denpasar Timur,"-8,641,578","115,230,677",5,81916600136
+t0016,Warung Nasi Bu Sari,u0611,Putu Putra,Denpasar Timur,"-8,641,578","115,230,677",3,81916600136
+t0016,Warung Nasi Bu Sari,u0735,Wahyu Alim,Denpasar Timur,"-8,641,578","115,230,677",4,81916600136
+t0017,Warung Bu Bangli,u0086,apriliana karamoy,Denpasar Timur,"-8,639,934","115,230,801",5,85338876553
+t0017,Warung Bu Bangli,u0104,Arya Adnyana,Denpasar Timur,"-8,639,934","115,230,801",2,85338876553
+t0017,Warung Bu Bangli,u0448,Komang Kardipa,Denpasar Timur,"-8,639,934","115,230,801",4,85338876553
+t0018,Laku Betutu Ayam,u0236,Drie,Denpasar Timur,"-8,636,618","11,522,954",4,3617851881
+t0018,Laku Betutu Ayam,u0693,Syaiful Harifik,Denpasar Timur,"-8,636,618","11,522,954",5,3617851881
+t0019,Warung Anom,u0378,INDIRA PRINCESS,Denpasar Utara,"-862,513","115,223,771",5,81338453464
+t0019,Warung Anom,u0528,moga wijaya,Denpasar Utara,"-862,513","115,223,771",4,81338453464
+t0019,Warung Anom,u0668,shee 567,Denpasar Utara,"-862,513","115,223,771",4,81338453464
+t0020,Warung Babi Guling Nyama,u0132,Baruna Sanjaya,Denpasar Utara,"-86,492","1,152,173",1,8500720847
+t0020,Warung Babi Guling Nyama,u0252,Eka Suryatna,Denpasar Utara,"-86,492","1,152,173",3,8500720847
+t0020,Warung Babi Guling Nyama,u0286,fuchrry,Denpasar Utara,"-8,625,521","115,228,154",5,81246425234
+t0020,Warung Babi Guling Nyama,u0346,I Kadek Hendra Lesmana,Denpasar Utara,"-86,492","1,152,173",5,8500720847
+t0020,Warung Babi Guling Nyama,u0393,ivan tejantara,Denpasar Utara,"-86,492","1,152,173",5,8500720847
+t0020,Warung Babi Guling Nyama,u0485,made budit,Denpasar Utara,"-86,492","1,152,173",5,8500720847
+t0020,Warung Babi Guling Nyama,u0540,Nalla Sukma,Denpasar Utara,"-86,492","1,152,173",5,8500720847
+t0021,Warung Babi Guling Ken Arok,u0044,Ali Budiman,Denpasar Utara,"-862,852","11,520,848",5,81338720808
+t0021,Warung Babi Guling Ken Arok,u0115,Ayong River,Denpasar Utara,"-862,852","11,520,848",5,81338720808
+t0021,Warung Babi Guling Ken Arok,u0323,Hary Sena,Denpasar Utara,"-862,852","11,520,848",5,81338720808
+t0021,Warung Babi Guling Ken Arok,u0433,Ketut Juli,Denpasar Utara,"-862,852","11,520,848",5,81338720808
+t0021,Warung Babi Guling Ken Arok,u0498,Makan Teman Bali,Denpasar Utara,"-862,852","11,520,848",5,81338720808
+t0021,Warung Babi Guling Ken Arok,u0572,Oka Semadi,Denpasar Utara,"-862,852","11,520,848",5,81338720808
+t0021,Warung Babi Guling Ken Arok,u0607,Putu Indra,Denpasar Utara,"-862,852","11,520,848",5,81338720808
+t0021,Warung Babi Guling Ken Arok,u0746,wijaya candra,Denpasar Utara,"-862,852","11,520,848",5,81338720808
+t0021,Warung Babi Guling Ken Arok,u0765,Yasa Bruce,Denpasar Utara,"-862,852","11,520,848",3,81338720808
+t0021,Warung Babi Guling Ken Arok,u0778,Yuni Puspita Dewi,Denpasar Utara,"-862,852","11,520,848",5,81338720808
+t0022,Warung Nasi Tekor Bali,u0082,Antonio Fu Fu,Denpasar Timur,"-864,205","11,525,532",5,82144225501
+t0022,Warung Nasi Tekor Bali,u0162,Carlos,Denpasar Timur,"-864,205","11,525,532",5,82144225501
+t0022,Warung Nasi Tekor Bali,u0249,Ego Peccator,Denpasar Timur,"-864,205","11,525,532",4,82144225501
+t0022,Warung Nasi Tekor Bali,u0261,Erick Richie,Denpasar Timur,"-864,205","11,525,532",5,82144225501
+t0022,Warung Nasi Tekor Bali,u0283,Fransisca Likwan,Denpasar Timur,"-864,205","11,525,532",5,82144225501
+t0022,Warung Nasi Tekor Bali,u0446,Ko San99,Denpasar Timur,"-864,205","11,525,532",5,82144225501
+t0022,Warung Nasi Tekor Bali,u0451,komang sheli,Denpasar Timur,"-864,205","11,525,532",5,82144225501
+t0022,Warung Nasi Tekor Bali,u0569,Octavianus Stevie Lianto,Denpasar Timur,"-864,205","11,525,532",5,82144225501
+t0022,Warung Nasi Tekor Bali,u0624,Ranny Soer,Denpasar Timur,"-864,205","11,525,532",5,82144225501
+t0022,Warung Nasi Tekor Bali,u0706,ThomasOR,Denpasar Timur,"-864,205","11,525,532",5,82144225501
+t0023,Warung Liku Ayam Betutu,u0058,"andi ""spider"" huang",Denpasar Timur,"-8,658,259","115,219,274",3,821472320
+t0023,Warung Liku Ayam Betutu,u0207,Dennis Jonathan,Denpasar Timur,"-8,658,259","115,219,274",5,821472320
+t0023,Warung Liku Ayam Betutu,u0213,Dewa Sutji,Denpasar Timur,"-8,658,259","115,219,274",4,821472320
+t0023,Warung Liku Ayam Betutu,u0243,Eddy Leo,Denpasar Timur,"-8,658,259","115,219,274",5,821472320
+t0023,Warung Liku Ayam Betutu,u0402,Janisha Puan,Denpasar Timur,"-8,658,259","115,219,274",5,821472320
+t0023,Warung Liku Ayam Betutu,u0489,Made Kadul,Denpasar Timur,"-8,658,259","115,219,274",5,821472320
+t0023,Warung Liku Ayam Betutu,u0543,Narlyta Renggaala,Denpasar Timur,"-8,658,259","115,219,274",5,821472320
+t0023,Warung Liku Ayam Betutu,u0639,riski bagus,Denpasar Timur,"-8,658,259","115,219,274",3,821472320
+t0023,Warung Liku Ayam Betutu,u0726,Vania Lukman,Denpasar Timur,"-8,658,259","115,219,274",5,821472320
+t0023,Warung Liku Ayam Betutu,u0775,Yudianto Lienata,Denpasar Timur,"-8,658,259","115,219,274",4,821472320
+t0024,Babi Guling Gung Cung,u0231,ditztorsi acik,Denpasar Timur,-8.668.942,115.228.399,5,0
+t0024,Babi Guling Gung Cung,u0310,Gung depung,Denpasar Timur,-8.668.942,115.228.399,5,0
+t0025,Warung Bu Komang,u0072,Anggi Meysa,Denpasar Timur,"-8,659,064","115,233,154",5,81337335543
+t0025,Warung Bu Komang,u0099,Arista Dewi,Denpasar Timur,"-8,659,064","115,233,154",5,81337335543
+t0025,Warung Bu Komang,u0168,Christian Kurniawan,Denpasar Timur,"-8,659,064","115,233,154",5,81337335543
+t0025,Warung Bu Komang,u0347,I Kadek Listiawan,Denpasar Timur,"-8,659,064","115,233,154",5,81337335543
+t0025,Warung Bu Komang,u0352,I Ketut Puspayoga,Denpasar Timur,"-8,659,064","115,233,154",5,81337335543
+t0025,Warung Bu Komang,u0478,Lol Lol,Denpasar Timur,"-8,659,064","115,233,154",5,81337335543
+t0025,Warung Bu Komang,u0495,Made Wijaya,Denpasar Timur,"-8,659,064","115,233,154",5,81337335543
+t0025,Warung Bu Komang,u0505,Margi Entertainment,Denpasar Timur,"-8,659,064","115,233,154",5,81337335543
+t0025,Warung Bu Komang,u0683,Sugi Kun,Denpasar Timur,"-8,659,064","115,233,154",5,81337335543
+t0025,Warung Bu Komang,u0776,Yudiari Dewi,Denpasar Timur,"-8,659,064","115,233,154",5,81337335543
+t0026,Warung Ibu Widi,u0065,Angel Ayu,Denpasar Selatan,"-8,682,652","115,221,151",5,(0361) 246449
+t0026,Warung Ibu Widi,u0075,Anik Atseira,Denpasar Selatan,"-8,682,652","115,221,151",5,(0361) 246449
+t0026,Warung Ibu Widi,u0369,Ida Bagus Putu Wijaya,Denpasar Selatan,"-8,682,652","115,221,151",5,(0361) 246449
+t0026,Warung Ibu Widi,u0408,Jaya Duarsa,Denpasar Selatan,"-8,682,652","115,221,151",5,(0361) 246449
+t0026,Warung Ibu Widi,u0432,Ketut Eka,Denpasar Selatan,"-8,682,652","115,221,151",5,(0361) 246449
+t0026,Warung Ibu Widi,u0545,Nelly Beje,Denpasar Selatan,"-8,682,652","115,221,151",5,(0361) 246449
+t0026,Warung Ibu Widi,u0599,Putu Adit,Denpasar Selatan,"-8,682,652","115,221,151",5,(0361) 246449
+t0026,Warung Ibu Widi,u0690,Surya Sriadi,Denpasar Selatan,"-8,682,652","115,221,151",5,(0361) 246449
+t0026,Warung Ibu Widi,u0719,Ud Wira Jaya,Denpasar Selatan,"-8,682,652","115,221,151",5,(0361) 246449
+t0026,Warung Ibu Widi,u0744,Widi Revan,Denpasar Selatan,"-8,682,652","115,221,151",5,(0361) 246449
+t0027,Warung Nasi Babi Guling Men Repot,u0014,Adi Budiawan,Denpasar Timur,"-864,227","11,523,857",5,85101230600
+t0027,Warung Nasi Babi Guling Men Repot,u0030,Agus Mahendra,Denpasar Timur,"-864,227","11,523,857",4,85101230600
+t0027,Warung Nasi Babi Guling Men Repot,u0089,Ari Laras Utami,Denpasar Timur,"-864,227","11,523,857",5,85101230600
+t0027,Warung Nasi Babi Guling Men Repot,u0105,Arya P.,Denpasar Timur,"-864,227","11,523,857",5,85101230600
+t0027,Warung Nasi Babi Guling Men Repot,u0135,Bayu Suteja,Denpasar Timur,"-864,227","11,523,857",4,85101230600
+t0027,Warung Nasi Babi Guling Men Repot,u0295,Gede Srigatha,Denpasar Timur,"-864,227","11,523,857",4,85101230600
+t0027,Warung Nasi Babi Guling Men Repot,u0430,Ketut Artana,Denpasar Timur,"-864,227","11,523,857",5,85101230600
+t0027,Warung Nasi Babi Guling Men Repot,u0565,Nyoman Maesa,Denpasar Timur,"-864,227","11,523,857",5,85101230600
+t0027,Warung Nasi Babi Guling Men Repot,u0630,Richard Thio,Denpasar Timur,"-864,227","11,523,857",3,85101230600
+t0027,Warung Nasi Babi Guling Men Repot,u0670,Sherly,Denpasar Timur,"-864,227","11,523,857",5,85101230600
+t0028,Sate Plecing Mak Lukluk,u0077,Anno Vi,Denpasar Timur,"-867,366","115,243,817",4,(0361) 34130
+t0028,Sate Plecing Mak Lukluk,u0093,Arief Andika,Denpasar Timur,"-867,366","115,243,817",5,(0361) 34130
+t0028,Sate Plecing Mak Lukluk,u0135,Bayu Suteja,Denpasar Timur,"-867,366","115,243,817",5,(0361) 34130
+t0028,Sate Plecing Mak Lukluk,u0211,Devina Lianti,Denpasar Timur,"-867,366","115,243,817",1,(0361) 34130
+t0028,Sate Plecing Mak Lukluk,u0234,Doc Traveler,Denpasar Timur,"-867,366","115,243,817",5,(0361) 34130
+t0028,Sate Plecing Mak Lukluk,u0237,Dwi Ade Riandayani,Denpasar Timur,"-867,366","115,243,817",5,(0361) 34130
+t0028,Sate Plecing Mak Lukluk,u0506,Mariana Wijayanti,Denpasar Timur,"-867,366","115,243,817",4,(0361) 34130
+t0028,Sate Plecing Mak Lukluk,u0603,Putu Arya Reksa Anggratyas,Denpasar Timur,"-867,366","115,243,817",5,(0361) 34130
+t0028,Sate Plecing Mak Lukluk,u0704,Theo Blochet,Denpasar Timur,"-867,366","115,243,817",5,(0361) 34130
+t0028,Sate Plecing Mak Lukluk,u0725,Valentine Suwanda,Denpasar Timur,"-867,366","115,243,817",4,(0361) 34130
+t0029,Warung Babi Guling,u0029,Agus Mahaputra,Denpasar Selatan,"-865,754","11,523,909",5,(0361) 7989688
+t0029,Warung Babi Guling,u0218,Dewinta Dermada,Denpasar Selatan,"-865,754","11,523,909",5,(0361) 7989688
+t0029,Warung Babi Guling,u0232,Djo Djinantha,Denpasar Selatan,"-865,754","11,523,909",5,(0361) 7989688
+t0029,Warung Babi Guling,u0300,Gilang Nolthing,Denpasar Selatan,"-865,754","11,523,909",5,(0361) 7989688
+t0029,Warung Babi Guling,u0413,Johnson W,Denpasar Selatan,"-865,754","11,523,909",4,(0361) 7989688
+t0029,Warung Babi Guling,u0580,Pandita Erawan,Denpasar Selatan,"-865,754","11,523,909",2,(0361) 7989688
+t0029,Warung Babi Guling,u0591,Player Nub,Denpasar Selatan,"-865,754","11,523,909",5,(0361) 7989688
+t0029,Warung Babi Guling,u0710,Tonk Bajul,Denpasar Selatan,"-865,754","11,523,909",4,(0361) 7989688
+t0029,Warung Babi Guling,u0755,Wiria Dinata,Denpasar Selatan,"-865,754","11,523,909",1,(0361) 7989688
+t0029,Warung Babi Guling,u0764,Yanto Giri,Denpasar Selatan,"-865,754","11,523,909",3,(0361) 7989688
+t0030,Warung Ratna,u0042,Alex Bali,Denpasar Selatan,"-8,682,478","115,224,143",5,81805565929
+t0031,Warung Ayu,u0097,Aris Wardlen,Denpsasar Timur,"-865,103","11,521,992",3,83117263509
+t0031,Warung Ayu,u0118,Ayu Ary,Denpsasar Timur,"-865,103","11,521,992",3,83117263509
+t0031,Warung Ayu,u0136,Beema Dewi,Denpsasar Timur,"-865,103","11,521,992",4,83117263509
+t0031,Warung Ayu,u0164,Catur Wira,Denpsasar Timur,"-865,103","11,521,992",5,83117263509
+t0031,Warung Ayu,u0298,Gede Wiranata,Denpsasar Timur,"-865,103","11,521,992",3,83117263509
+t0031,Warung Ayu,u0313,Gusti Ayu,Denpsasar Timur,"-865,103","11,521,992",5,83117263509
+t0031,Warung Ayu,u0496,Made Wiranata,Denpsasar Timur,"-865,103","11,521,992",5,83117263509
+t0031,Warung Ayu,u0551,Ngurah Sedana,Denpsasar Timur,"-865,103","11,521,992",5,83117263509
+t0031,Warung Ayu,u0600,Putu Ana,Denpsasar Timur,"-865,103","11,521,992",5,83117263509
+t0031,Warung Ayu,u0621,Rambu Twentywan,Denpsasar Timur,"-865,103","11,521,992",5,83117263509
+t0032,Ayam Betutu Laku 168,u0100,Arlan Mohammad,Denpasar Timur,"-8,656,992","115,234,668",5,(0361)7885168
+t0032,Ayam Betutu Laku 168,u0203,Dedy Sumaryana,Denpasar Timur,"-8,656,992","115,234,668",1,(0361)7885168
+t0032,Ayam Betutu Laku 168,u0236,Drie,Denpasar Timur,"-8,656,992","115,234,668",4,(0361)7885168
+t0032,Ayam Betutu Laku 168,u0325,Hayatur Rahman,Denpasar Timur,"-8,656,992","115,234,668",5,(0361)7885168
+t0032,Ayam Betutu Laku 168,u0411,Jerry Charles,Denpasar Timur,"-8,656,992","115,234,668",5,(0361)7885168
+t0032,Ayam Betutu Laku 168,u0693,Syaiful Harifik,Denpasar Timur,"-8,656,992","115,234,668",5,(0361)7885168
+t0033,Warung Ibu Agus,u0012,Ade Santika,Denpasar Timur,"-862,871","11,524,657",5,82341077607
+t0033,Warung Ibu Agus,u0067,Angela Saputri,Denpasar Timur,"-862,871","11,524,657",5,82341077607
+t0033,Warung Ibu Agus,u0221,Dian Wulandari,Denpasar Timur,"-862,871","11,524,657",4,82341077607
+t0033,Warung Ibu Agus,u0315,Hana Bernada,Denpasar Timur,"-862,871","11,524,657",5,82341077607
+t0033,Warung Ibu Agus,u0550,Ngurah Putra,Denpasar Timur,"-862,871","11,524,657",4,82341077607
+t0033,Warung Ibu Agus,u0646,Rosny Duhat,Denpasar Timur,"-862,871","11,524,657",5,82341077607
+t0033,Warung Ibu Agus,u0652,Samsul Huda,Denpasar Timur,"-862,871","11,524,657",5,82341077607
+t0033,Warung Ibu Agus,u0679,Stefanus Sylvan Ryanto,Denpasar Timur,"-862,871","11,524,657",3,82341077607
+t0033,Warung Ibu Agus,u0705,Theofilus Masno,Denpasar Timur,"-862,871","11,524,657",3,82341077607
+t0033,Warung Ibu Agus,u0740,Wayan Kariana,Denpasar Timur,"-862,871","11,524,657",5,82341077607
+t0034,Warung Manggis,u0375,Imelda Chandra,Denpasar Timur,"-865,377","11,524,485",5,81999383447
+t0035,Babi Guling Bu Agus,u0031,Agus Nadiarta,Denpasar Timur,"-865,037","11,524,067",5,82237783619
+t0035,Babi Guling Bu Agus,u0120,Ayu Darmapatni,Denpasar Timur,"-865,037","11,524,067",5,82237783619
+t0035,Babi Guling Bu Agus,u0128,Bali 12,Denpasar Timur,"-865,037","11,524,067",5,82237783619
+t0035,Babi Guling Bu Agus,u0168,Christian Kurniawan,Denpasar Timur,"-865,037","11,524,067",5,82237783619
+t0035,Babi Guling Bu Agus,u0532,Muantari Ochu,Denpasar Timur,"-865,037","11,524,067",4,82237783619
+t0035,Babi Guling Bu Agus,u0597,Privat Bali,Denpasar Timur,"-865,037","11,524,067",5,82237783619
+t0036,Warung Kesvin,u0071,Angga Juliasta,Denpasar Timur,"-864,276","11,523,031",4,87861183489
+t0036,Warung Kesvin,u0421,Kadek Cik,Denpasar Timur,"-864,276","11,523,031",1,87861183489
+t0036,Warung Kesvin,u0429,Kesya Putri 31,Denpasar Timur,"-864,276","11,523,031",5,87861183489
+t0036,Warung Kesvin,u0715,Trip Bali Holidays,Denpasar Timur,"-864,276","11,523,031",5,87861183489
+t0037,Warung Celuk,u0098,Arisna Wulandari,Denpasar Selatan,"-8,683,615","115,221,227",5,8123690214
+t0037,Warung Celuk,u0123,Ayu Riska,Denpasar Selatan,"-8,683,615","115,221,227",5,8123690214
+t0037,Warung Celuk,u0160,Cantongg Channel,Denpasar Selatan,"-8,683,615","115,221,227",5,8123690214
+t0037,Warung Celuk,u0187,Dananjaya Diputra,Denpasar Selatan,"-8,683,615","115,221,227",4,8123690214
+t0037,Warung Celuk,u0215,Dewi Mayura,Denpasar Selatan,"-8,683,615","115,221,227",3,8123690214
+t0037,Warung Celuk,u0240,Dwija Dana,Denpasar Selatan,"-8,683,615","115,221,227",5,8123690214
+t0037,Warung Celuk,u0275,Fenny Devy,Denpasar Selatan,"-8,683,615","115,221,227",5,8123690214
+t0037,Warung Celuk,u0282,Frans Santosa,Denpasar Selatan,"-8,683,615","115,221,227",5,8123690214
+t0037,Warung Celuk,u0461,Lagu Bali Kenangan,Denpasar Selatan,"-8,683,615","115,221,227",5,8123690214
+t0037,Warung Celuk,u0781,Zenit Arimbhawa,Denpasar Selatan,"-8,683,615","115,221,227",5,8123690214
+t0038,Warung Nasi Babi Guling Men Redio,u0361,I Nyoman Sunita,Denpasar Timur,"-864,059","11,524,068",5,85396939662
+t0038,Warung Nasi Babi Guling Men Redio,u0453,Komang Wibawa,Denpasar Timur,"-864,059","11,524,068",4,85396939662
+t0038,Warung Nasi Babi Guling Men Redio,u0454,Kowo Nawe,Denpasar Timur,"-864,059","11,524,068",5,85396939662
+t0038,Warung Nasi Babi Guling Men Redio,u0549,Ngurah Picky,Denpasar Timur,"-864,059","11,524,068",4,85396939662
+t0038,Warung Nasi Babi Guling Men Redio,u0583,Patria Wiryaguna,Denpasar Timur,"-864,059","11,524,068",5,85396939662
+t0038,Warung Nasi Babi Guling Men Redio,u0592,Power Gaming M,Denpasar Timur,"-864,059","11,524,068",5,85396939662
+t0038,Warung Nasi Babi Guling Men Redio,u0601,Putu Ardha,Denpasar Timur,"-864,059","11,524,068",5,85396939662
+t0038,Warung Nasi Babi Guling Men Redio,u0692,Svasty Yos,Denpasar Timur,"-864,059","11,524,068",4,85396939662
+t0038,Warung Nasi Babi Guling Men Redio,u0748,Wilky Luo,Denpasar Timur,"-864,059","11,524,068",3,85396939662
+t0038,Warung Nasi Babi Guling Men Redio,u0768,Yogi Wiradharma,Denpasar Timur,"-864,059","11,524,068",5,85396939662
+t0039,Ayam Betutu Khas Gilimanuk,u0052,Amira Nadia,Denpasar Timur,"-866,445","11,523,854",4,3614746029
+t0039,Ayam Betutu Khas Gilimanuk,u0108,Aryo Wibowo,Denpasar Timur,"-866,445","11,523,854",4,3614746029
+t0039,Ayam Betutu Khas Gilimanuk,u0204,Delif Subeki,Denpasar Timur,"-866,445","11,523,854",5,3614746029
+t0039,Ayam Betutu Khas Gilimanuk,u0222,Diana Irawati,Denpasar Timur,"-866,445","11,523,854",5,3614746029
+t0039,Ayam Betutu Khas Gilimanuk,u0511,Media Belajar Kita,Denpasar Timur,"-866,445","11,523,854",5,3614746029
+t0039,Ayam Betutu Khas Gilimanuk,u0662,Sendy Filemon,Denpasar Timur,"-866,445","11,523,854",5,3614746029
+t0039,Ayam Betutu Khas Gilimanuk,u0666,Setiawan Raharjo,Denpasar Timur,"-866,445","11,523,854",5,3614746029
+t0039,Ayam Betutu Khas Gilimanuk,u0674,Simon Anggono,Denpasar Timur,"-866,445","11,523,854",5,3614746029
+t0039,Ayam Betutu Khas Gilimanuk,u0707,TIMTL08,Denpasar Timur,"-866,445","11,523,854",5,3614746029
+t0039,Ayam Betutu Khas Gilimanuk,u0751,Windrajaya Putu,Denpasar Timur,"-866,445","11,523,854",5,3614746029
+t0040,Dela Depot Laris Siobak Singaraja,u0148,Brized Ht,Denpasar Selatan,"-871,111","11,522,452",5,81386705995
+t0040,Dela Depot Laris Siobak Singaraja,u0172,Christine Bayu,Denpasar Selatan,"-871,111","11,522,452",5,81386705995
+t0040,Dela Depot Laris Siobak Singaraja,u0244,Edi SUtrisna,Denpasar Selatan,"-871,111","11,522,452",4,81386705995
+t0040,Dela Depot Laris Siobak Singaraja,u0470,Leonis Purba,Denpasar Selatan,"-871,111","11,522,452",5,81386705995
+t0040,Dela Depot Laris Siobak Singaraja,u0492,Made Sukma Hartania,Denpasar Selatan,"-871,111","11,522,452",3,81386705995
+t0040,Dela Depot Laris Siobak Singaraja,u0633,Rifan Lie,Denpasar Selatan,"-871,111","11,522,452",5,81386705995
+t0040,Dela Depot Laris Siobak Singaraja,u0634,Rika Ekawati,Denpasar Selatan,"-871,111","11,522,452",5,81386705995
+t0040,Dela Depot Laris Siobak Singaraja,u0763,Yanti Rahardjo,Denpasar Selatan,"-871,111","11,522,452",3,81386705995
+t0040,Dela Depot Laris Siobak Singaraja,u0766,Yasa Tangkas,Denpasar Selatan,"-871,111","11,522,452",5,81386705995
+t0040,Dela Depot Laris Siobak Singaraja,u0772,Yosep Sugiarto (Otjep),Denpasar Selatan,"-871,111","11,522,452",5,81386705995
+t0041,Warung Men Yogi Tegal,u0006,33. I Kadek Yogi Arta Suantara,Denpasar Barat,"-866,187","11,520,415",5,89503406894
+t0041,Warung Men Yogi Tegal,u0122,Ayu Karianti,Denpasar Barat,"-866,187","11,520,415",5,89503406894
+t0041,Warung Men Yogi Tegal,u0428,Kentut Tupai,Denpasar Barat,"-866,187","11,520,415",5,89503406894
+t0042,Warung Jaje Bali,u0013,Adhiguna,Denpasar Utara,"-8,642,582","115,221,386",5,(0361)414452
+t0042,Warung Jaje Bali,u0034,Agus Suariadi,Denpasar Utara,"-8,642,582","115,221,386",4,(0361)414452
+t0042,Warung Jaje Bali,u0080,Antok Frans,Denpasar Utara,"-8,642,582","115,221,386",4,(0361)414452
+t0042,Warung Jaje Bali,u0092,Arie Yudistira,Denpasar Utara,"-8,642,582","115,221,386",5,(0361)414452
+t0042,Warung Jaje Bali,u0153,Bunda Mich,Denpasar Utara,"-8,642,582","115,221,386",5,(0361)414452
+t0042,Warung Jaje Bali,u0155,BUS hoping,Denpasar Utara,"-8,642,582","115,221,386",4,(0361)414452
+t0042,Warung Jaje Bali,u0161,Carl Massy,Denpasar Utara,"-8,642,582","115,221,386",5,(0361)414452
+t0042,Warung Jaje Bali,u0163,Catur V Aloe,Denpasar Utara,"-8,642,582","115,221,386",5,(0361)414452
+t0042,Warung Jaje Bali,u0441,Kezia Turangan,Denpasar Utara,"-8,642,582","115,221,386",5,(0361)414452
+t0042,Warung Jaje Bali,u0524,Mira Virgayanti,Denpasar Utara,"-8,642,582","115,221,386",5,(0361)414452
+t0043,Warung Galuh Bali,u0069,Angga Botax,Denpasar Timur,"-867,479","11,523,241",5,82144657587
+t0043,Warung Galuh Bali,u0248,Egidius Fernandes Molo,Denpasar Timur,"-867,479","11,523,241",5,82144657587
+t0043,Warung Galuh Bali,u0412,Johanes Arga,Denpasar Timur,"-867,479","11,523,241",5,82144657587
+t0043,Warung Galuh Bali,u0417,Jro Mangku Eddie,Denpasar Timur,"-867,479","11,523,241",5,82144657587
+t0043,Warung Galuh Bali,u0424,Kamar Kos Renon,Denpasar Timur,"-867,479","11,523,241",5,82144657587
+t0043,Warung Galuh Bali,u0526,Mix Max,Denpasar Timur,"-867,479","11,523,241",5,82144657587
+t0043,Warung Galuh Bali,u0585,Paulo's Shot,Denpasar Timur,"-867,479","11,523,241",5,82144657587
+t0043,Warung Galuh Bali,u0700,Teja Mantri,Denpasar Timur,"-867,479","11,523,241",5,82144657587
+t0043,Warung Galuh Bali,u0738,Wayan Aryana,Denpasar Timur,"-867,479","11,523,241",3,82144657587
+t0043,Warung Galuh Bali,u0752,Wira Dharma,Denpasar Timur,"-867,479","11,523,241",4,82144657587
+t0044,Babi Guling Karya Rebo,u0009,A S,"Kedonganan, Kuta","-8,760,818","115,176,133",3,361703229
+t0044,Babi Guling Karya Rebo,u0038,Albert Tedjadiputra,"Kedonganan, Kuta","-8,760,818","115,176,133",5,361703229
+t0044,Babi Guling Karya Rebo,u0076,Annette Pang,"Kedonganan, Kuta","-8,760,818","115,176,133",5,361703229
+t0044,Babi Guling Karya Rebo,u0178,Clarissa -,"Kedonganan, Kuta","-8,760,818","115,176,133",4,361703229
+t0044,Babi Guling Karya Rebo,u0210,Devi Octaria,"Kedonganan, Kuta","-8,760,818","115,176,133",4,361703229
+t0044,Babi Guling Karya Rebo,u0280,Food and Travel,"Kedonganan, Kuta","-8,760,818","115,176,133",5,361703229
+t0044,Babi Guling Karya Rebo,u0471,Lettisa D. S. Wardhani,"Kedonganan, Kuta","-8,760,818","115,176,133",3,361703229
+t0044,Babi Guling Karya Rebo,u0476,Lisa,"Kedonganan, Kuta","-8,760,818","115,176,133",3,361703229
+t0044,Babi Guling Karya Rebo,u0761,Yally Widjanarko,"Kedonganan, Kuta","-8,760,818","115,176,133",5,361703229
+t0044,Babi Guling Karya Rebo,u0771,Yoppy Prasetya,"Kedonganan, Kuta","-8,760,818","115,176,133",3,361703229
+t0045,Losin Fillets Bali,u0191,David Santoso,"Denpasar Selatan, Panjer","-86,826,242","1,152,297,821",5,3614748999
+t0045,Losin Fillets Bali,u0372,Ika Widya,"Denpasar Selatan, Panjer","-86,826,242","1,152,297,821",4,3614748999
+t0045,Losin Fillets Bali,u0387,Ira Apriyanti,"Denpasar Selatan, Panjer","-86,826,242","1,152,297,821",5,3614748999
+t0045,Losin Fillets Bali,u0525,Mirah Adi,"Denpasar Selatan, Panjer","-86,826,242","1,152,297,821",4,3614748999
+t0045,Losin Fillets Bali,u0537,N.I. Saraswati,"Denpasar Selatan, Panjer","-86,826,242","1,152,297,821",4,3614748999
+t0045,Losin Fillets Bali,u0575,Orre,"Denpasar Selatan, Panjer","-86,826,242","1,152,297,821",5,3614748999
+t0045,Losin Fillets Bali,u0628,Reza Nanda Iswara Ida Bagus,"Denpasar Selatan, Panjer","-86,826,242","1,152,297,821",3,3614748999
+t0045,Losin Fillets Bali,u0632,Richie Adiyat (richoz),"Denpasar Selatan, Panjer","-86,826,242","1,152,297,821",5,3614748999
+t0045,Losin Fillets Bali,u0647,Rossy Triska,"Denpasar Selatan, Panjer","-86,826,242","1,152,297,821",5,3614748999
+t0045,Losin Fillets Bali,u0779,Yustika Muharastri,"Denpasar Selatan, Panjer","-86,826,242","1,152,297,821",5,3614748999
+t0046,"Wr. Babi Guling Singaraja ""Rendi""",u0184,Damon,Denpasar Selatan,"-86,906,628","1,152,246,597",5,85239697405
+t0046,"Wr. Babi Guling Singaraja ""Rendi""",u0242,Ed Dauhan,Denpasar Selatan,"-86,906,628","1,152,246,597",5,85239697405
+t0046,"Wr. Babi Guling Singaraja ""Rendi""",u0285,Fritz Rosadi,Denpasar Selatan,"-86,906,628","1,152,246,597",5,85239697405
+t0046,"Wr. Babi Guling Singaraja ""Rendi""",u0314,Hadi Kusuma Poernomo,Denpasar Selatan,"-86,906,628","1,152,246,597",5,85239697405
+t0046,"Wr. Babi Guling Singaraja ""Rendi""",u0374,Imam Gunawan,Denpasar Selatan,"-86,906,628","1,152,246,597",5,85239697405
+t0046,"Wr. Babi Guling Singaraja ""Rendi""",u0388,Ira Rodrigues,Denpasar Selatan,"-86,906,628","1,152,246,597",5,85239697405
+t0046,"Wr. Babi Guling Singaraja ""Rendi""",u0466,Laurensia Fitri,Denpasar Selatan,"-86,906,628","1,152,246,597",5,85239697405
+t0046,"Wr. Babi Guling Singaraja ""Rendi""",u0509,Maureen Nuradhi,Denpasar Selatan,"-86,906,628","1,152,246,597",5,85239697405
+t0046,"Wr. Babi Guling Singaraja ""Rendi""",u0523,Michael Simoncelli,Denpasar Selatan,"-86,906,628","1,152,246,597",5,85239697405
+t0046,"Wr. Babi Guling Singaraja ""Rendi""",u0615,Puveanthan Nagappan Govendan,Denpasar Selatan,"-86,906,628","1,152,246,597",5,85239697405
+t0047,Nasi Jinggo JIKELLE,u0040,Aldie Handoko,"Denpasar Selatan, Panjer","-86,799,676","1,152,208,571",4,81337299111
+t0047,Nasi Jinggo JIKELLE,u0139,Beth Bettris,"Denpasar Selatan, Panjer","-86,799,676","1,152,208,571",4,81337299111
+t0047,Nasi Jinggo JIKELLE,u0255,Ella Yahya,"Denpasar Selatan, Panjer","-86,799,676","1,152,208,571",4,81337299111
+t0047,Nasi Jinggo JIKELLE,u0256,Ellen Vijay,"Denpasar Selatan, Panjer","-86,799,676","1,152,208,571",2,81337299111
+t0047,Nasi Jinggo JIKELLE,u0274,Felix Lee,"Denpasar Selatan, Panjer","-86,799,676","1,152,208,571",4,81337299111
+t0047,Nasi Jinggo JIKELLE,u0450,Komang Risma Devi Kartika,"Denpasar Selatan, Panjer","-86,799,676","1,152,208,571",4,81337299111
+t0047,Nasi Jinggo JIKELLE,u0512,Meg,"Denpasar Selatan, Panjer","-86,799,676","1,152,208,571",5,81337299111
+t0047,Nasi Jinggo JIKELLE,u0613,Putu Tonsen,"Denpasar Selatan, Panjer","-86,799,676","1,152,208,571",3,81337299111
+t0047,Nasi Jinggo JIKELLE,u0628,Reza Nanda Iswara Ida Bagus,"Denpasar Selatan, Panjer","-86,799,676","1,152,208,571",4,81337299111
+t0047,Nasi Jinggo JIKELLE,u0688,Sunggimawan Tjoeng,"Denpasar Selatan, Panjer","-86,799,676","1,152,208,571",5,81337299111
+t0048,Senggol Nusantara,u0101,Arroyo Spero,Denpasar Selatan,"-867,780","11,523,764",5,87760041480
+t0048,Senggol Nusantara,u0190,David Ornaldo Kurniawan,Denpasar Selatan,"-867,780","11,523,764",4,87760041480
+t0048,Senggol Nusantara,u0200,Dedee Aveling Tarot Card Reader Bali,Denpasar Selatan,"-867,780","11,523,764",5,87760041480
+t0048,Senggol Nusantara,u0246,Edwin Winarta,Denpasar Selatan,"-867,780","11,523,764",5,87760041480
+t0048,Senggol Nusantara,u0334,Hercu Jo,Denpasar Selatan,"-867,780","11,523,764",5,87760041480
+t0048,Senggol Nusantara,u0425,Kanaya Keyz,Denpasar Selatan,"-867,780","11,523,764",2,87760041480
+t0048,Senggol Nusantara,u0584,Patricia Oktaviani,Denpasar Selatan,"-867,780","11,523,764",5,87760041480
+t0048,Senggol Nusantara,u0602,Putu Arta,Denpasar Selatan,"-867,780","11,523,764",4,87760041480
+t0048,Senggol Nusantara,u0667,Shanti P J,Denpasar Selatan,"-867,780","11,523,764",4,87760041480
+t0048,Senggol Nusantara,u0777,Yuli Ary,Denpasar Selatan,"-867,780","11,523,764",3,87760041480
+t0049,Depot M27,u0095,Aris,Denpasar,"-86,685","11,522,837",3,87861992221
+t0049,Depot M27,u0170,Christina T. Sanger (cSang),Denpasar,"-86,685","11,522,837",4,87861992221
+t0049,Depot M27,u0227,Dimaz Darsono,Denpasar,"-86,685","11,522,837",5,87861992221
+t0049,Depot M27,u0260,Erick Heinrich,Denpasar,"-86,685","11,522,837",5,87861992221
+t0049,Depot M27,u0273,Felicia Cia,Denpasar,"-86,685","11,522,837",5,87861992221
+t0049,Depot M27,u0279,Foker Wijaya,Denpasar,"-86,685","11,522,837",5,87861992221
+t0049,Depot M27,u0304,Gojira 888,Denpasar,"-86,685","11,522,837",5,87861992221
+t0049,Depot M27,u0391,Isdj Anto,Denpasar,"-86,685","11,522,837",5,87861992221
+t0049,Depot M27,u0507,Matthew Axelino,Denpasar,"-86,685","11,522,837",5,87861992221
+t0049,Depot M27,u0556,Nia Kasera,Denpasar,"-86,685","11,522,837",4,87861992221
+t0050,Warung Makan Bu Kadek,u0019,Aditio W.S,Denpasar,"-86,364,768","1,152,157,287",5,81997924786
+t0050,Warung Makan Bu Kadek,u0053,anak agung ayu trisna dewi,Denpasar,"-86,364,768","1,152,157,287",5,81997924786
+t0050,Warung Makan Bu Kadek,u0080,Antok Frans,Denpasar,"-86,364,768","1,152,157,287",4,81997924786
+t0050,Warung Makan Bu Kadek,u0094,Arief Prasetiyo,Denpasar,"-86,364,768","1,152,157,287",4,81997924786
+t0050,Warung Makan Bu Kadek,u0124,ayu sastaparamitha,Denpasar,"-86,364,768","1,152,157,287",4,81997924786
+t0050,Warung Makan Bu Kadek,u0270,Faiz Aryaputra,Denpasar,"-86,364,768","1,152,157,287",5,81997924786
+t0050,Warung Makan Bu Kadek,u0316,Hanny J,Denpasar,"-86,364,768","1,152,157,287",5,81997924786
+t0050,Warung Makan Bu Kadek,u0396,Ivonny Liemantika,Denpasar,"-86,364,768","1,152,157,287",5,81997924786
+t0050,Warung Makan Bu Kadek,u0407,Jay Orlov,Denpasar,"-86,364,768","1,152,157,287",5,81997924786
+t0050,Warung Makan Bu Kadek,u0458,Kusuma Adiwijaya,Denpasar,"-86,364,768","1,152,157,287",5,81997924786
+t0051,Babi Guling Sading,u0061,Andidhr,Denpasar,"-86,095,376","1,152,386,458",5,81337104023
+t0051,Babi Guling Sading,u0135,Bayu Suteja,Denpasar,"-86,095,376","1,152,386,458",4,81337104023
+t0051,Babi Guling Sading,u0198,DEAD HYPER,Denpasar,"-86,095,376","1,152,386,458",5,81337104023
+t0051,Babi Guling Sading,u0423,Kadek Satria wirapedda adisesa,Denpasar,"-86,095,376","1,152,386,458",5,81337104023
+t0051,Babi Guling Sading,u0512,Meg,Denpasar,"-86,095,376","1,152,386,458",5,81337104023
+t0051,Babi Guling Sading,u0555,Ni Wayan Widiarti,Denpasar,"-86,095,376","1,152,386,458",5,81337104023
+t0051,Babi Guling Sading,u0579,Pande Baik,Denpasar,"-86,095,376","1,152,386,458",5,81337104023
+t0051,Babi Guling Sading,u0687,Sunari Sucita,Denpasar,"-86,095,376","1,152,386,458",5,81337104023
+t0051,Babi Guling Sading,u0711,Tresna Wicaksana,Denpasar,"-86,095,376","1,152,386,458",5,81337104023
+t0051,Babi Guling Sading,u0774,yuda swastika,Denpasar,"-86,095,376","1,152,386,458",4,81337104023
+t0052,Jaje Bali Men Suambe,u0522,Michael Krisna Lyla,Denpasar,"-8,667,446","115,210,539",5,81238165446
+t0052,Jaje Bali Men Suambe,u0598,puput septiani,Denpasar,"-8,667,446","115,210,539",5,81238165446
+t0053,Warung Bintang Danu,u0011,Abhi Surya,Denpasar,"-86,703,165","1,152,273,391",5,811392791
+t0053,Warung Bintang Danu,u0113,Aurele,Denpasar,"-86,703,165","1,152,273,391",5,811392791
+t0053,Warung Bintang Danu,u0291,Gede Christiawan,Denpasar,"-86,703,165","1,152,273,391",5,811392791
+t0053,Warung Bintang Danu,u0367,I Wayan Wiradnyana,Denpasar,"-86,703,165","1,152,273,391",5,811392791
+t0053,Warung Bintang Danu,u0443,Kiki Kiki,Denpasar,"-86,703,165","1,152,273,391",5,811392791
+t0053,Warung Bintang Danu,u0459,Kusuma Halim,Denpasar,"-86,703,165","1,152,273,391",5,811392791
+t0053,Warung Bintang Danu,u0578,Panak Sugih,Denpasar,"-86,703,165","1,152,273,391",5,811392791
+t0053,Warung Bintang Danu,u0625,Ratna Hidayati,Denpasar,"-86,703,165","1,152,273,391",5,811392791
+t0053,Warung Bintang Danu,u0642,Ronald Tobing,Denpasar,"-86,703,165","1,152,273,391",5,811392791
+t0053,Warung Bintang Danu,u0663,Sentra Bangunan Dewata,Denpasar,"-86,703,165","1,152,273,391",5,811392791
+t0054,Warung Serayu,u0089,Ari Laras Utami,Denpasar,"-86,484,513","115,183,877",5,3619075081
+t0054,Warung Serayu,u0176,Claire Harrigan,Denpasar,"-86,484,513","115,183,877",5,3619075081
+t0054,Warung Serayu,u0194,Dayu Widy,Denpasar,"-86,484,513","115,183,877",3,3619075081
+t0054,Warung Serayu,u0208,Desi Fajariyanti,Denpasar,"-86,484,513","115,183,877",4,3619075081
+t0054,Warung Serayu,u0264,Ernawati Iswoyo,Denpasar,"-86,484,513","115,183,877",5,3619075081
+t0054,Warung Serayu,u0302,Giz Mahendrawati,Denpasar,"-86,484,513","115,183,877",5,3619075081
+t0054,Warung Serayu,u0508,maureen nauradhi,Denpasar,"-86,484,513","115,183,877",5,3619075081
+t0054,Warung Serayu,u0535,MY MOVIE TRAVEL,Denpasar,"-86,484,513","115,183,877",2,3619075081
+t0054,Warung Serayu,u0727,vasita jiemngern,Denpasar,"-86,484,513","115,183,877",5,3619075081
+t0054,Warung Serayu,u0756,Wisnu H,Denpasar,"-86,484,513","115,183,877",5,3619075081
+t0055,SABO BALI (Sate Ayam Babi Oka),u0070,Angga Harsawan,Denpasar,"-8,680,873","115,200,565",5,89614686083
+t0055,SABO BALI (Sate Ayam Babi Oka),u0144,Bobby Koo,Denpasar,"-8,680,873","115,200,565",5,89614686083
+t0055,SABO BALI (Sate Ayam Babi Oka),u0397,Iwan Indrawan,Denpasar,"-8,680,873","115,200,565",4,89614686083
+t0055,SABO BALI (Sate Ayam Babi Oka),u0406,Jason Shadrick,Denpasar,"-8,680,873","115,200,565",5,89614686083
+t0055,SABO BALI (Sate Ayam Babi Oka),u0416,Josia Peranginangin,Denpasar,"-8,680,873","115,200,565",4,89614686083
+t0055,SABO BALI (Sate Ayam Babi Oka),u0482,Lukas Heri,Denpasar,"-8,680,873","115,200,565",4,89614686083
+t0055,SABO BALI (Sate Ayam Babi Oka),u0504,Marcel Liem,Denpasar,"-8,680,873","115,200,565",5,89614686083
+t0055,SABO BALI (Sate Ayam Babi Oka),u0534,Muji Ono,Denpasar,"-8,680,873","115,200,565",5,89614686083
+t0055,SABO BALI (Sate Ayam Babi Oka),u0566,Nyoman Ngestawa,Denpasar,"-8,680,873","115,200,565",5,89614686083
+t0055,SABO BALI (Sate Ayam Babi Oka),u0645,Rosmala Dewi,Denpasar,"-8,680,873","115,200,565",5,89614686083
+t0056,Babi Guling Bu Candra,u0066,Angela Harefa,Denpasar,"-86,752,098","1,152,049,092",5,361221278
+t0056,Babi Guling Bu Candra,u0180,Clarissa Euvenia,Denpasar,"-86,752,098","1,152,049,092",5,361221278
+t0056,Babi Guling Bu Candra,u0263,Erlangga Sugiarta,Denpasar,"-86,752,098","1,152,049,092",5,361221278
+t0056,Babi Guling Bu Candra,u0306,Grace Oktosia,Denpasar,"-86,752,098","1,152,049,092",5,361221278
+t0056,Babi Guling Bu Candra,u0405,Jason Ryandi Assana,Denpasar,"-86,752,098","1,152,049,092",5,361221278
+t0056,Babi Guling Bu Candra,u0472,Lily Krisniagasari,Denpasar,"-86,752,098","1,152,049,092",3,361221278
+t0056,Babi Guling Bu Candra,u0479,Louis Fourie,Denpasar,"-86,752,098","1,152,049,092",2,361221278
+t0056,Babi Guling Bu Candra,u0558,NJ,Denpasar,"-86,752,098","1,152,049,092",5,361221278
+t0056,Babi Guling Bu Candra,u0665,Septina Dei Lestari,Denpasar,"-86,752,098","1,152,049,092",5,361221278
+t0056,Babi Guling Bu Candra,u0694,Tania The Ponytail,Denpasar,"-86,752,098","1,152,049,092",5,361221278
+t0057,Babi Guling Nadi Jaya,u0008,A Canadian in London,"Badung, Kuta","-87,261,013","1,151,753,794",2,361759321
+t0057,Babi Guling Nadi Jaya,u0102,Arsic Mladen,"Badung, Kuta","-87,261,013","1,151,753,794",4,361759321
+t0057,Babi Guling Nadi Jaya,u0138,Bernie H,"Badung, Kuta","-87,261,013","1,151,753,794",5,361759321
+t0057,Babi Guling Nadi Jaya,u0156,C RKS,"Badung, Kuta","-87,261,013","1,151,753,794",4,361759321
+t0057,Babi Guling Nadi Jaya,u0216,dewi moss video,"Badung, Kuta","-87,261,013","1,151,753,794",5,361759321
+t0057,Babi Guling Nadi Jaya,u0276,Feny Cahyawati,"Badung, Kuta","-87,261,013","1,151,753,794",5,361759321
+t0057,Babi Guling Nadi Jaya,u0392,Ivan Hutomo,"Badung, Kuta","-87,261,013","1,151,753,794",5,361759321
+t0057,Babi Guling Nadi Jaya,u0414,Jonathan Carter,"Badung, Kuta","-87,261,013","1,151,753,794",5,361759321
+t0057,Babi Guling Nadi Jaya,u0659,Savid Ooi,"Badung, Kuta","-87,261,013","1,151,753,794",4,361759321
+t0057,Babi Guling Nadi Jaya,u0753,Wira Dillon,"Badung, Kuta","-87,261,013","1,151,753,794",4,361759321
+t0058,Laklak Men Gabrug,u0090,Ari Wirajaya,Denpasar,"-8,662,218","1,151,630,412",4,36170708415
+t0058,Laklak Men Gabrug,u0159,candraadi saputra,Denpasar,"-8,662,218","1,151,630,412",4,36170708415
+t0058,Laklak Men Gabrug,u0174,Cita Wirya,Denpasar,"-8,662,218","1,151,630,412",3,36170708415
+t0058,Laklak Men Gabrug,u0290,gatra sutha,Denpasar,"-8,662,218","1,151,630,412",1,36170708415
+t0058,Laklak Men Gabrug,u0354,I Komang Dharmendra,Denpasar,"-8,662,218","1,151,630,412",4,36170708415
+t0058,Laklak Men Gabrug,u0377,Indira Kumala,Denpasar,"-8,662,218","1,151,630,412",3,36170708415
+t0058,Laklak Men Gabrug,u0394,Ivana Beatrice Alberta,Denpasar,"-8,662,218","1,151,630,412",1,36170708415
+t0058,Laklak Men Gabrug,u0661,sekar khantil,Denpasar,"-8,662,218","1,151,630,412",5,36170708415
+t0058,Laklak Men Gabrug,u0733,Vonny Yunita,Denpasar,"-8,662,218","1,151,630,412",3,36170708415
+t0058,Laklak Men Gabrug,u0780,zbyszek krzyzanowski,Denpasar,"-8,662,218","1,151,630,412",5,36170708415
+t0059,Ayam Betutu KR Kuta,u0112,audynarzq,"Badung, Kuta","-87,310,431","1,151,776,009",4,3614754292
+t0059,Ayam Betutu KR Kuta,u0114,Averin Rumenta,"Badung, Kuta","-87,310,431","1,151,776,009",5,3614754292
+t0059,Ayam Betutu KR Kuta,u0130,Barry Pramudya,"Badung, Kuta","-87,310,431","1,151,776,009",4,3614754292
+t0059,Ayam Betutu KR Kuta,u0329,Hendri Lim,"Badung, Kuta","-87,310,431","1,151,776,009",5,3614754292
+t0059,Ayam Betutu KR Kuta,u0426,Karina Widjaya,"Badung, Kuta","-87,310,431","1,151,776,009",5,3614754292
+t0059,Ayam Betutu KR Kuta,u0455,Krido Sadmoko,"Badung, Kuta","-87,310,431","1,151,776,009",4,3614754292
+t0059,Ayam Betutu KR Kuta,u0468,Leonardo dosduo,"Badung, Kuta","-87,310,431","1,151,776,009",4,3614754292
+t0059,Ayam Betutu KR Kuta,u0588,Permana Aji,"Badung, Kuta","-87,310,431","1,151,776,009",5,3614754292
+t0059,Ayam Betutu KR Kuta,u0696,Taufik WIDJAJA,"Badung, Kuta","-87,310,431","1,151,776,009",4,3614754292
+t0059,Ayam Betutu KR Kuta,u0771,Yoppy Prasetya,"Badung, Kuta","-87,310,431","1,151,776,009",4,3614754292
+t0060,Nasi Lawar Babi & Kecubung,u0217,Dewi Widhyastuti,Denpasar,"-8,652,968","115,229,877",5,87761565762
+t0060,Nasi Lawar Babi & Kecubung,u0345,I Gusti Ngurah Krisnu Sukarep,Denpasar,"-8,652,968","115,229,877",4,87761565762
+t0061,Nasi Babi Guling Penatih,u0135,Bayu Suteja,"Penatih, Denpasar","-86,166,232","1,152,405,857",5,8123971461
+t0061,Nasi Babi Guling Penatih,u0277,ferry tjen,"Penatih, Denpasar","-86,166,232","1,152,405,857",4,8123971461
+t0061,Nasi Babi Guling Penatih,u0341,HotBarman,"Penatih, Denpasar","-86,166,232","1,152,405,857",5,8123971461
+t0061,Nasi Babi Guling Penatih,u0497,Maggie Budiono,"Penatih, Denpasar","-86,166,232","1,152,405,857",5,8123971461
+t0061,Nasi Babi Guling Penatih,u0513,Mega Christanta,"Penatih, Denpasar","-86,166,232","1,152,405,857",4,8123971461
+t0061,Nasi Babi Guling Penatih,u0539,Nadya Angelina,"Penatih, Denpasar","-86,166,232","1,152,405,857",5,8123971461
+t0061,Nasi Babi Guling Penatih,u0595,Pramana Putra,"Penatih, Denpasar","-86,166,232","1,152,405,857",4,8123971461
+t0061,Nasi Babi Guling Penatih,u0618,Rahmadi Renyut,"Penatih, Denpasar","-86,166,232","1,152,405,857",5,8123971461
+t0061,Nasi Babi Guling Penatih,u0657,Satria Egantara,"Penatih, Denpasar","-86,166,232","1,152,405,857",3,8123971461
+t0061,Nasi Babi Guling Penatih,u0709,Tjiao Ling,"Penatih, Denpasar","-86,166,232","1,152,405,857",4,8123971461
+t0062,Warung Buk Dayu,u0005,2B_48_Dewa Made Adi Pramana putra,Denpasar Barat,"-8,660,504","115,181,802",4,87860982104
+t0062,Warung Buk Dayu,u0431,ketut bagix,Denpasar Barat,"-8,660,504","115,181,802",4,87860982104
+t0062,Warung Buk Dayu,u0654,santi asa,Denpasar Barat,"-8,660,504","115,181,802",5,87860982104
+t0063,Nasi ayam Peken Pidada,u0050,Ami Bali,Gatsu Barat,"-8,635,345","1,152,016,611",5,81337332104
+t0063,Nasi ayam Peken Pidada,u0117,Ayu Artini,Gatsu Barat,"-8,635,345","1,152,016,611",5,81337332104
+t0063,Nasi ayam Peken Pidada,u0199,Decky Novian Saputra,Gatsu Barat,"-8,635,345","1,152,016,611",5,81337332104
+t0063,Nasi ayam Peken Pidada,u0206,Dendy Kurnia,Gatsu Barat,"-8,635,345","1,152,016,611",4,81337332104
+t0063,Nasi ayam Peken Pidada,u0278,Fikri Khaisany,Gatsu Barat,"-8,635,345","1,152,016,611",5,81337332104
+t0063,Nasi ayam Peken Pidada,u0510,Meddir Desmo,Gatsu Barat,"-8,635,345","1,152,016,611",5,81337332104
+t0063,Nasi ayam Peken Pidada,u0520,Merry Allena,Gatsu Barat,"-8,635,345","1,152,016,611",5,81337332104
+t0063,Nasi ayam Peken Pidada,u0619,Raka Ariani,Gatsu Barat,"-8,635,345","1,152,016,611",5,81337332104
+t0063,Nasi ayam Peken Pidada,u0637,Rini Metiary,Gatsu Barat,"-8,635,345","1,152,016,611",5,81337332104
+t0063,Nasi ayam Peken Pidada,u0769,Yohana Elisabet (Yoel ajust),Gatsu Barat,"-8,635,345","1,152,016,611",5,81337332104
+t0064,Sate babi Pak Wayan,u0001,05.Komang Candra Diana,Denpasar Barat,"-8,657,181","115,212,164",5,82339631524
+t0064,Sate babi Pak Wayan,u0384,inyoman sukra lestiawan,Denpasar Barat,"-8,657,181","115,212,164",5,82339631524
+t0064,Sate babi Pak Wayan,u0734,Wahyu Aditya,Denpasar Barat,"-8,657,181","115,212,164",5,82339631524
+t0065,Sate Tut Narutto,u0544,nayaka putri,Denpasar,"-87,001,611","1,151,767,235",5,87861997720
+t0065,Sate Tut Narutto,u0567,Nyoman Sriasih,Denpasar,"-87,001,611","1,151,767,235",5,87861997720
+t0065,Sate Tut Narutto,u0656,sastra nayaka,Denpasar,"-87,001,611","1,151,767,235",5,87861997720
+t0065,Sate Tut Narutto,u0745,Widiana Nyoman,Denpasar,"-87,001,611","1,151,767,235",5,87861997720
+t0066,Warung Bu Putu,u0110,Atendaya,Denpasar,"-86,712,138","1,151,778,527",4,82146297933
+t0066,Warung Bu Putu,u0201,Dedek Ratsuteja,Denpasar,"-86,712,138","1,151,778,527",5,82146297933
+t0066,Warung Bu Putu,u0337,Herry Lionk,Denpasar,"-86,712,138","1,151,778,527",5,82146297933
+t0066,Warung Bu Putu,u0373,iketut perna,Denpasar,"-86,712,138","1,151,778,527",5,82146297933
+t0066,Warung Bu Putu,u0737,Warna Blotong,Denpasar,"-86,712,138","1,151,778,527",5,82146297933
+t0066,Warung Bu Putu,u0741,Wayan Todya,Denpasar,"-86,712,138","1,151,778,527",5,82146297933
+t0067,Nasi Lawar Pak De,u0214,Dewa Yasa,Denpasar,"-8,672,577","11,521,422",5,85847417989
+t0067,Nasi Lawar Pak De,u0344,I Gusti Agung Gede Ngurah Kresna Adi Saputra,Denpasar,"-8,672,577","11,521,422",5,85847417989
+t0067,Nasi Lawar Pak De,u0410,Jepe Channel,Denpasar,"-8,672,577","11,521,422",5,85847417989
+t0067,Nasi Lawar Pak De,u0440,kezia amanda,Denpasar,"-8,672,577","11,521,422",5,85847417989
+t0067,Nasi Lawar Pak De,u0500,Manik,Denpasar,"-8,672,577","11,521,422",5,85847417989
+t0067,Nasi Lawar Pak De,u0562,Noval Ashari,Denpasar,"-8,672,577","11,521,422",5,85847417989
+t0067,Nasi Lawar Pak De,u0614,Putu Utary,Denpasar,"-8,672,577","11,521,422",4,85847417989
+t0067,Nasi Lawar Pak De,u0627,Reny Lolyta,Denpasar,"-8,672,577","11,521,422",5,85847417989
+t0067,Nasi Lawar Pak De,u0631,Richard Tuwo,Denpasar,"-8,672,577","11,521,422",4,85847417989
+t0067,Nasi Lawar Pak De,u0743,widhi galaxy,Denpasar,"-8,672,577","11,521,422",5,85847417989
+t0068,Betutu Pitik Bali,u0143,Bli Kadek Update,Gianyar,"-85,415,186","1,153,267,862",1,87762914443
+t0068,Betutu Pitik Bali,u0262,erick wisnu,Gianyar,"-85,415,186","1,153,267,862",1,87762914443
+t0068,Betutu Pitik Bali,u0398,Iwan Kartono,Gianyar,"-85,415,186","1,153,267,862",5,87762914443
+t0068,Betutu Pitik Bali,u0447,Komang Darma Suastika,Gianyar,"-85,415,186","1,153,267,862",3,87762914443
+t0068,Betutu Pitik Bali,u0561,Nova Farasadi,Gianyar,"-85,415,186","1,153,267,862",4,87762914443
+t0068,Betutu Pitik Bali,u0593,pragina karang,Gianyar,"-85,415,186","1,153,267,862",5,87762914443
+t0068,Betutu Pitik Bali,u0629,Rezha Rezha,Gianyar,"-85,415,186","1,153,267,862",3,87762914443
+t0069,Nasi Ayam Ibu Oki,u0049,Amelia Clementine,"Badung, Jimbaran","-8,784,163","115,172,532",5,(0361) 8052059
+t0069,Nasi Ayam Ibu Oki,u0150,budi susanto,"Badung, Jimbaran","-8,784,163","115,172,532",4,(0361) 8052059
+t0069,Nasi Ayam Ibu Oki,u0226,Dila Paramita,"Badung, Jimbaran","-8,784,163","115,172,532",5,(0361) 8052059
+t0069,Nasi Ayam Ibu Oki,u0228,dinda setya,"Badung, Jimbaran","-8,784,163","115,172,532",5,(0361) 8052059
+t0069,Nasi Ayam Ibu Oki,u0249,Ego Peccator,"Badung, Jimbaran","-8,784,163","115,172,532",4,(0361) 8052059
+t0069,Nasi Ayam Ibu Oki,u0319,harmanto,"Badung, Jimbaran","-8,784,163","115,172,532",5,(0361) 8052059
+t0069,Nasi Ayam Ibu Oki,u0330,hendrik kuncoro,"Badung, Jimbaran","-8,784,163","115,172,532",5,(0361) 8052059
+t0069,Nasi Ayam Ibu Oki,u0483,lydia aja,"Badung, Jimbaran","-8,784,163","115,172,532",5,(0361) 8052059
+t0069,Nasi Ayam Ibu Oki,u0513,Mega Christanta,"Badung, Jimbaran","-8,784,163","115,172,532",4,(0361) 8052059
+t0069,Nasi Ayam Ibu Oki,u0672,Shinta Wrdhani,"Badung, Jimbaran","-8,784,163","115,172,532",5,(0361) 8052059
+t0070,Sate Nyoman Bledor,u0033,Agus Sadya Eka Putra,Badung Utara,"-84,766,461","115,136,585",4,85238751301
+t0070,Sate Nyoman Bledor,u0106,arya utama,Badung Utara,"-84,766,461","115,136,585",5,85238751301
+t0070,Sate Nyoman Bledor,u0135,Bayu Suteja,Badung Utara,"-84,766,461","115,136,585",3,85238751301
+t0070,Sate Nyoman Bledor,u0301,Gita Saraswati Luh Gede,Badung Utara,"-84,766,461","115,136,585",5,85238751301
+t0070,Sate Nyoman Bledor,u0311,gung trijaya putra,Badung Utara,"-84,766,461","115,136,585",4,85238751301
+t0070,Sate Nyoman Bledor,u0382,Intan Dewi,Badung Utara,"-84,766,461","115,136,585",5,85238751301
+t0070,Sate Nyoman Bledor,u0415,Jorg Lippmann,Badung Utara,"-84,766,461","115,136,585",5,85238751301
+t0070,Sate Nyoman Bledor,u0473,Lina Martana,Badung Utara,"-84,766,461","115,136,585",4,85238751301
+t0070,Sate Nyoman Bledor,u0678,Stefanus Saputra,Badung Utara,"-84,766,461","115,136,585",4,85238751301
+t0070,Sate Nyoman Bledor,u0750,Wilsen Tjhung,Badung Utara,"-84,766,461","115,136,585",5,85238751301
+t0071,Warung Babi Guling Pak Man Ligir,u0127,Bagus Jati Jaya Ken,Denpasar,"-86,479,259","1,152,100,919",5,85100784260
+t0071,Warung Babi Guling Pak Man Ligir,u0157,Candra Dewi,Denpasar,"-86,479,259","1,152,100,919",5,85100784260
+t0071,Warung Babi Guling Pak Man Ligir,u0214,Dewa Yasa,Denpasar,"-86,479,259","1,152,100,919",3,85100784260
+t0071,Warung Babi Guling Pak Man Ligir,u0250,Eka Dewi,Denpasar,"-86,479,259","1,152,100,919",5,85100784260
+t0071,Warung Babi Guling Pak Man Ligir,u0317,Hariadi TV,Denpasar,"-86,479,259","1,152,100,919",4,85100784260
+t0071,Warung Babi Guling Pak Man Ligir,u0357,I Made Widnyana,Denpasar,"-86,479,259","1,152,100,919",5,85100784260
+t0071,Warung Babi Guling Pak Man Ligir,u0399,Jambore Satu,Denpasar,"-86,479,259","1,152,100,919",5,85100784260
+t0071,Warung Babi Guling Pak Man Ligir,u0460,Kyosuke Hashirama,Denpasar,"-86,479,259","1,152,100,919",4,85100784260
+t0072,Sate Babi Bawah Pohon Gelora Trisakti,u0043,Alfons Yoshio Hartanto,Badung,"-87,120,716","1,151,108,954",5,81936253567
+t0072,Sate Babi Bawah Pohon Gelora Trisakti,u0068,Angelyn,Badung,"-87,120,716","1,151,108,954",4,81936253567
+t0072,Sate Babi Bawah Pohon Gelora Trisakti,u0171,Christine Ardy,Badung,"-87,120,716","1,151,108,954",4,81936253567
+t0072,Sate Babi Bawah Pohon Gelora Trisakti,u0179,Clarissa April Liana,Badung,"-87,120,716","1,151,108,954",5,81936253567
+t0072,Sate Babi Bawah Pohon Gelora Trisakti,u0245,Edwin Suryadi Halim,Badung,"-87,120,716","1,151,108,954",4,81936253567
+t0072,Sate Babi Bawah Pohon Gelora Trisakti,u0257,Elyce O,Badung,"-87,120,716","1,151,108,954",2,81936253567
+t0072,Sate Babi Bawah Pohon Gelora Trisakti,u0342,Hyunji Won,Badung,"-87,120,716","1,151,108,954",5,81936253567
+t0072,Sate Babi Bawah Pohon Gelora Trisakti,u0527,MJ,Badung,"-87,120,716","1,151,108,954",5,81936253567
+t0072,Sate Babi Bawah Pohon Gelora Trisakti,u0703,The Food Passport,Badung,"-87,120,716","1,151,108,954",4,81936253567
+t0072,Sate Babi Bawah Pohon Gelora Trisakti,u0750,Wilsen Tjhung,Badung,"-87,120,716","1,151,108,954",5,81936253567
+t0073,Babi Guling Central Park,u0007,4th Eye,"Badung, Kuta","-8,711,997","1,151,773,363",5,81236288555
+t0073,Babi Guling Central Park,u0322,Hartono Ambara,"Badung, Kuta","-8,711,997","1,151,773,363",5,81236288555
+t0073,Babi Guling Central Park,u0487,Made Eriawan,"Badung, Kuta","-8,711,997","1,151,773,363",1,81236288555
+t0073,Babi Guling Central Park,u0563,nyoman asli bali,"Badung, Kuta","-8,711,997","1,151,773,363",4,81236288555
+t0073,Babi Guling Central Park,u0620,Rakhmat Hidayat,"Badung, Kuta","-8,711,997","1,151,773,363",4,81236288555
+t0073,Babi Guling Central Park,u0664,Senyumin Aja,"Badung, Kuta","-8,711,997","1,151,773,363",5,81236288555
+t0073,Babi Guling Central Park,u0736,Wahyu Priyansah,"Badung, Kuta","-8,711,997","1,151,773,363",3,81236288555
+t0074,Babi Guling Pak Malen,u0305,Grace Halim,"Badung, Kuta","-87,160,934","1,151,856,797",5,85100452968
+t0074,Babi Guling Pak Malen,u0307,Gregory,"Badung, Kuta","-87,160,934","1,151,856,797",5,85100452968
+t0074,Babi Guling Pak Malen,u0389,Irene Andriani,"Badung, Kuta","-87,160,934","1,151,856,797",5,85100452968
+t0074,Babi Guling Pak Malen,u0444,Kimberley Chai,"Badung, Kuta","-87,160,934","1,151,856,797",5,85100452968
+t0074,Babi Guling Pak Malen,u0445,klepon ojitchi,"Badung, Kuta","-87,160,934","1,151,856,797",4,85100452968
+t0074,Babi Guling Pak Malen,u0536,N A,"Badung, Kuta","-87,160,934","1,151,856,797",5,85100452968
+t0074,Babi Guling Pak Malen,u0552,Nguyen Steven,"Badung, Kuta","-87,160,934","1,151,856,797",5,85100452968
+t0074,Babi Guling Pak Malen,u0589,Pierre Manoppo,"Badung, Kuta","-87,160,934","1,151,856,797",5,85100452968
+t0074,Babi Guling Pak Malen,u0724,Valensia Sebastiani,"Badung, Kuta","-87,160,934","1,151,856,797",5,85100452968
+t0074,Babi Guling Pak Malen,u0731,Vincent Halim,"Badung, Kuta","-87,160,934","1,151,856,797",3,85100452968
+t0075,Babi Guling Pak Dobiel,u0045,Ali Nyoman Yohanda,Badung,"-88,006,465","1,151,526,525",4,361771633
+t0075,Babi Guling Pak Dobiel,u0165,Celia Rusdi,Badung,"-88,006,465","1,151,526,525",5,361771633
+t0075,Babi Guling Pak Dobiel,u0192,David Wibianto,Badung,"-88,006,465","1,151,526,525",5,361771633
+t0075,Babi Guling Pak Dobiel,u0205,Della Windy,Badung,"-88,006,465","1,151,526,525",5,361771633
+t0075,Babi Guling Pak Dobiel,u0340,Hotaru Journey,Badung,"-88,006,465","1,151,526,525",5,361771633
+t0075,Babi Guling Pak Dobiel,u0465,Laurensia Adi,Badung,"-88,006,465","1,151,526,525",5,361771633
+t0075,Babi Guling Pak Dobiel,u0564,Nyoman Gunatra,Badung,"-88,006,465","1,151,526,525",5,361771633
+t0075,Babi Guling Pak Dobiel,u0608,Putu Jerick,Badung,"-88,006,465","1,151,526,525",1,361771633
+t0075,Babi Guling Pak Dobiel,u0714,Trimbil,Badung,"-88,006,465","1,151,526,525",4,361771633
+t0075,Babi Guling Pak Dobiel,u0754,Wira Satria,Badung,"-88,006,465","1,151,526,525",5,361771633
+t0076,Babi Guling Men Agus,u0015,Adi Ebenezer,"Munggu, Tanah Lot","-86,359,559","1,151,431,111",3,81936064104
+t0076,Babi Guling Men Agus,u0023,Adriel Panne,"Munggu, Tanah Lot","-86,359,559","1,151,431,111",3,81936064104
+t0076,Babi Guling Men Agus,u0048,Alton Joe Orleando,"Munggu, Tanah Lot","-86,359,559","1,151,431,111",5,81936064104
+t0076,Babi Guling Men Agus,u0175,Citra Puspitasari,"Munggu, Tanah Lot","-86,359,559","1,151,431,111",5,81936064104
+t0076,Babi Guling Men Agus,u0224,Didie Ngaeran,"Munggu, Tanah Lot","-86,359,559","1,151,431,111",4,81936064104
+t0076,Babi Guling Men Agus,u0436,Ketut Wintara,"Munggu, Tanah Lot","-86,359,559","1,151,431,111",5,81936064104
+t0076,Babi Guling Men Agus,u0442,Khoirul Nubis,"Munggu, Tanah Lot","-86,359,559","1,151,431,111",1,81936064104
+t0076,Babi Guling Men Agus,u0515,Meishia Channel,"Munggu, Tanah Lot","-86,359,559","1,151,431,111",5,81936064104
+t0076,Babi Guling Men Agus,u0590,Pit Sip,"Munggu, Tanah Lot","-86,359,559","1,151,431,111",4,81936064104
+t0076,Babi Guling Men Agus,u0680,Steven Sean,"Munggu, Tanah Lot","-86,359,559","1,151,431,111",4,81936064104
+t0077,Babi Guling Bu Dayu,u0024,ADT Gaming,"Badung, Kuta","-86,359,559","1,151,431,111",5,82144529142
+t0077,Babi Guling Bu Dayu,u0074,Ani Nandi,"Badung, Kuta","-86,359,559","1,151,431,111",5,82144529142
+t0077,Babi Guling Bu Dayu,u0146,Bravo 5.3,"Badung, Kuta","-86,359,559","1,151,431,111",5,82144529142
+t0077,Babi Guling Bu Dayu,u0247,Efandah Lusman,"Badung, Kuta","-86,359,559","1,151,431,111",3,82144529142
+t0077,Babi Guling Bu Dayu,u0267,Evan Irianov,"Badung, Kuta","-86,359,559","1,151,431,111",5,82144529142
+t0077,Babi Guling Bu Dayu,u0328,Hendri Harsiandi,"Badung, Kuta","-86,359,559","1,151,431,111",5,82144529142
+t0077,Babi Guling Bu Dayu,u0517,Melinda Irmawati,"Badung, Kuta","-86,359,559","1,151,431,111",3,82144529142
+t0077,Babi Guling Bu Dayu,u0609,Putu Maliastra,"Badung, Kuta","-86,359,559","1,151,431,111",5,82144529142
+t0077,Babi Guling Bu Dayu,u0636,Rikky,"Badung, Kuta","-86,359,559","1,151,431,111",5,82144529142
+t0077,Babi Guling Bu Dayu,u0699,Tedy Tedy,"Badung, Kuta","-86,359,559","1,151,431,111",4,82144529142
+t0078,Babi Guling Negari,u0610,Putu Pramana,Gianyar,"-85,506,964","1,153,342,594",3,81 238 511 78
+t0079,Babi Guling Sanur,u0022,Adrian Siswanto,Denpasar,"-86,824,865","1,152,579,463",5,361287308
+t0079,Babi Guling Sanur,u0299,George Georgiou,Denpasar,"-86,824,865","1,152,579,463",4,361287308
+t0079,Babi Guling Sanur,u0324,Hasan Lai,Denpasar,"-86,824,865","1,152,579,463",5,361287308
+t0079,Babi Guling Sanur,u0586,Paulus Jemmy Elvin,Denpasar,"-86,824,865","1,152,579,463",5,361287308
+t0079,Babi Guling Sanur,u0622,Randy Huang,Denpasar,"-86,824,865","1,152,579,463",5,361287308
+t0079,Babi Guling Sanur,u0676,Skar Rini,Denpasar,"-86,824,865","1,152,579,463",2,361287308
+t0079,Babi Guling Sanur,u0685,Sukma Atha,Denpasar,"-86,824,865","1,152,579,463",5,361287308
+t0079,Babi Guling Sanur,u0708,Tio Asianto,Denpasar,"-86,824,865","1,152,579,463",5,361287308
+t0079,Babi Guling Sanur,u0717,Troy Arief,Denpasar,"-86,824,865","1,152,579,463",5,361287308
+t0079,Babi Guling Sanur,u0757,Witarina,Denpasar,"-86,824,865","1,152,579,463",5,361287308
+t0080,Warung Kayu Manis,u0059,Andi Irawan,Denpasar,"-86,687,658","1,152,400,642",3,81353215333
+t0080,Warung Kayu Manis,u0239,Dwi Suarini,Denpasar,"-86,687,658","1,152,400,642",5,81353215333
+t0080,Warung Kayu Manis,u0254,Elisabeth Aryanti,Denpasar,"-86,687,658","1,152,400,642",2,81353215333
+t0080,Warung Kayu Manis,u0296,Gede Sugrerindra,Denpasar,"-86,687,658","1,152,400,642",5,81353215333
+t0080,Warung Kayu Manis,u0309,Gunawan Suarna,Denpasar,"-86,687,658","1,152,400,642",3,81353215333
+t0080,Warung Kayu Manis,u0385,Ippank Dcc,Denpasar,"-86,687,658","1,152,400,642",5,81353215333
+t0080,Warung Kayu Manis,u0488,Made Hernanda,Denpasar,"-86,687,658","1,152,400,642",5,81353215333
+t0080,Warung Kayu Manis,u0518,Melissa Laik,Denpasar,"-86,687,658","1,152,400,642",4,81353215333
+t0080,Warung Kayu Manis,u0553,Ni Luh Made Santi,Denpasar,"-86,687,658","1,152,400,642",5,81353215333
+t0080,Warung Kayu Manis,u0606,Putu Erika Putri Antari,Denpasar,"-86,687,658","1,152,400,642",1,81353215333
+t0081,Warung Kulkul Bali,u0129,Bali driver gede,Gatsu Barat,"-86,362,075","1,150,765,424",5,822-4796-9229
+t0081,Warung Kulkul Bali,u0183,Cok Widyawati,Gatsu Barat,"-86,362,075","1,150,765,424",5,822-4796-9229
+t0081,Warung Kulkul Bali,u0303,Goes ade,Gatsu Barat,"-86,362,075","1,150,765,424",5,822-4796-9229
+t0081,Warung Kulkul Bali,u0404,Japanese Boy,Gatsu Barat,"-86,362,075","1,150,765,424",4,822-4796-9229
+t0081,Warung Kulkul Bali,u0579,Pande Baik,Gatsu Barat,"-86,362,075","1,150,765,424",5,822-4796-9229
+t0081,Warung Kulkul Bali,u0722,Urip Darmayasa,Gatsu Barat,"-86,362,075","1,150,765,424",3,822-4796-9229
+t0082,Babi Guling Selingsing Cepaka,u0062,Andreas Lestyawan,Tabanan,"-85,994,863","115,145,909",5,813 3785 4662
+t0082,Babi Guling Selingsing Cepaka,u0084,Antony Correya,Tabanan,"-85,994,863","115,145,909",4,813 3785 4662
+t0082,Babi Guling Selingsing Cepaka,u0121,Ayu Dewi,Tabanan,"-85,994,863","115,145,909",1,813 3785 4662
+t0082,Babi Guling Selingsing Cepaka,u0331,Hendry Lim,Tabanan,"-85,994,863","115,145,909",4,813 3785 4662
+t0082,Babi Guling Selingsing Cepaka,u0409,Jendhi Siswanto,Tabanan,"-85,994,863","115,145,909",4,813 3785 4662
+t0082,Babi Guling Selingsing Cepaka,u0669,Sheptien Pam,Tabanan,"-85,994,863","115,145,909",5,813 3785 4662
+t0082,Babi Guling Selingsing Cepaka,u0681,Steven Tjia,Tabanan,"-85,994,863","115,145,909",5,813 3785 4662
+t0082,Babi Guling Selingsing Cepaka,u0712,Tri Budi Irwanto,Tabanan,"-85,994,863","115,145,909",5,813 3785 4662
+t0082,Babi Guling Selingsing Cepaka,u0749,Willy Soeganda,Tabanan,"-85,994,863","115,145,909",5,813 3785 4662
+t0082,Babi Guling Selingsing Cepaka,u0770,Yonita Cahya,Tabanan,"-85,994,863","115,145,909",5,813 3785 4662
+t0083,Siobak Singaraja Khe Lok,u0039,Aldie Anggara,Singaraja,"-81,124,446","1,150,822,911",1,36222760
+t0083,Siobak Singaraja Khe Lok,u0142,black jak,Singaraja,"-81,124,446","1,150,822,911",5,36222760
+t0083,Siobak Singaraja Khe Lok,u0167,Chris Adriel,Singaraja,"-81,124,446","1,150,822,911",5,36222760
+t0083,Siobak Singaraja Khe Lok,u0173,CIN JENYANA N,Singaraja,"-81,124,446","1,150,822,911",5,36222760
+t0083,Siobak Singaraja Khe Lok,u0193,davlog arts,Singaraja,"-81,124,446","1,150,822,911",4,36222760
+t0083,Siobak Singaraja Khe Lok,u0308,Gunawan Sanjaya,Singaraja,"-81,124,446","1,150,822,911",4,36222760
+t0083,Siobak Singaraja Khe Lok,u0538,N.Sudiartha,Singaraja,"-81,124,446","1,150,822,911",5,36222760
+t0083,Siobak Singaraja Khe Lok,u0650,Ruth Teodora Jans,Singaraja,"-81,124,446","1,150,822,911",5,36222760
+t0083,Siobak Singaraja Khe Lok,u0677,Snow White,Singaraja,"-81,124,446","1,150,822,911",5,36222760
+t0083,Siobak Singaraja Khe Lok,u0729,vijaya michael,Singaraja,"-81,124,446","1,150,822,911",5,36222760
+t0084,Lawar Warung Nasi Lukluk,u0037,Albert Kirana Sutiono,Kapal,"-85,816,803","1,151,878,186",4,3614422690
+t0084,Lawar Warung Nasi Lukluk,u0116,Ayu Andayani,Kapal,"-85,816,803","1,151,878,186",5,3614422690
+t0084,Lawar Warung Nasi Lukluk,u0149,Budhi Anggraeni,Kapal,"-85,816,803","1,151,878,186",4,3614422690
+t0084,Lawar Warung Nasi Lukluk,u0321,Harry Wijaya Surya,Kapal,"-85,816,803","1,151,878,186",5,3614422690
+t0084,Lawar Warung Nasi Lukluk,u0358,I made Wiryasuta,Kapal,"-85,816,803","1,151,878,186",5,3614422690
+t0084,Lawar Warung Nasi Lukluk,u0363,I WAYAN ARIS PRATAMA YASA,Kapal,"-85,816,803","1,151,878,186",5,3614422690
+t0084,Lawar Warung Nasi Lukluk,u0427,Kartika Kadek,Kapal,"-85,816,803","1,151,878,186",5,3614422690
+t0084,Lawar Warung Nasi Lukluk,u0546,Nengah Danta,Kapal,"-85,816,803","1,151,878,186",5,3614422690
+t0084,Lawar Warung Nasi Lukluk,u0574,ONDESSY PANGGABEAN,Kapal,"-85,816,803","1,151,878,186",5,3614422690
+t0084,Lawar Warung Nasi Lukluk,u0596,Prayoga Putu,Kapal,"-85,816,803","1,151,878,186",5,3614422690
+t0085,Warung Sate Plecing Arjuna,u0036,Agustini Mashalim,Denpasar Utara,"-86,529,446","115,215,282",5,87867789002
+t0085,Warung Sate Plecing Arjuna,u0081,antonio boby,Denpasar Utara,"-86,529,446","115,215,282",1,87867789002
+t0085,Warung Sate Plecing Arjuna,u0177,clairine loekito,Denpasar Utara,"-86,529,446","115,215,282",4,87867789002
+t0085,Warung Sate Plecing Arjuna,u0188,daniel rifat,Denpasar Utara,"-86,529,446","115,215,282",5,87867789002
+t0085,Warung Sate Plecing Arjuna,u0212,dewa diana,Denpasar Utara,"-86,529,446","115,215,282",5,87867789002
+t0085,Warung Sate Plecing Arjuna,u0326,hendra lie,Denpasar Utara,"-86,529,446","115,215,282",4,87867789002
+t0085,Warung Sate Plecing Arjuna,u0339,heryanto sijabat,Denpasar Utara,"-86,529,446","115,215,282",5,87867789002
+t0085,Warung Sate Plecing Arjuna,u0469,leonardo krisna,Denpasar Utara,"-86,529,446","115,215,282",5,87867789002
+t0085,Warung Sate Plecing Arjuna,u0754,Wira Satria,Denpasar Utara,"-86,529,446","115,215,282",4,87867789002
+t0085,Warung Sate Plecing Arjuna,u0767,Yehezkiel Pratama,Denpasar Utara,"-86,529,446","115,215,282",1,87867789002
+t0086,Warung lawar kodi,u0158,Candra Mouri,Denpasar,"-86,529,446","115,215,282",5,361289230
+t0086,Warung lawar kodi,u0219,Dharmawan Setiadi,Denpasar,"-86,529,446","115,215,282",5,361289230
+t0086,Warung lawar kodi,u0287,G Loren,Denpasar,"-86,529,446","115,215,282",2,361289230
+t0086,Warung lawar kodi,u0350,I Ketut Agus Adi Wiguna,Denpasar,"-86,529,446","115,215,282",5,361289230
+t0086,Warung lawar kodi,u0491,made suadiaya,Denpasar,"-86,529,446","115,215,282",5,361289230
+t0086,Warung lawar kodi,u0514,Mega Utami,Denpasar,"-86,529,446","115,215,282",2,361289230
+t0086,Warung lawar kodi,u0644,RonyByron,Denpasar,"-86,529,446","115,215,282",1,361289230
+t0086,Warung lawar kodi,u0658,satria putra,Denpasar,"-86,529,446","115,215,282",5,361289230
+t0086,Warung lawar kodi,u0697,Teddy Chang,Denpasar,"-86,529,446","115,215,282",5,361289230
+t0086,Warung lawar kodi,u0718,Tut Dadi,Denpasar,"-86,529,446","115,215,282",5,361289230
+t0087,Warung Depe (Nasi Lawar Bali),u0318,Hariyono 81,Denpasar Barat,"-8,703,902","1,151,498,801",3,81338708468
+t0087,Warung Depe (Nasi Lawar Bali),u0571,Ogie Ozil,Denpasar Barat,"-8,703,902","1,151,498,801",5,81338708468
+t0088,Warung Nasi Lawar Yan Negro,u0109,Astry Aryastri,Denpasar Utara,"-86,545,559","115,175,579",5,0
+t0088,Warung Nasi Lawar Yan Negro,u0214,Dewa Yasa,Denpasar Utara,"-86,545,559","115,175,579",5,0
+t0088,Warung Nasi Lawar Yan Negro,u0266,Esha Satrya,Denpasar Utara,"-86,545,559","115,175,579",5,0
+t0088,Warung Nasi Lawar Yan Negro,u0379,Indra Pramadewa,Denpasar Utara,"-86,545,559","115,175,579",5,0
+t0088,Warung Nasi Lawar Yan Negro,u0381,Indri nursetyadi,Denpasar Utara,"-86,545,559","115,175,579",5,0
+t0089,Warung Nasi Lawar Bali,u0020,Adjie sudirman,Denpasar Barat,"-8,663,065","1,151,524,981",4,82144831803
+t0089,Warung Nasi Lawar Bali,u0041,Aldy Goes,Denpasar Barat,"-8,663,065","1,151,524,981",5,82144831803
+t0089,Warung Nasi Lawar Bali,u0073,Anggi Talla,Denpasar Barat,"-8,663,065","1,151,524,981",1,82144831803
+t0089,Warung Nasi Lawar Bali,u0107,arya wijaya,Denpasar Barat,"-8,663,065","1,151,524,981",5,82144831803
+t0089,Warung Nasi Lawar Bali,u0141,big_deddy,Denpasar Barat,"-8,663,065","1,151,524,981",4,82144831803
+t0089,Warung Nasi Lawar Bali,u0166,Chintya Arsani,Denpasar Barat,"-8,663,065","1,151,524,981",5,82144831803
+t0089,Warung Nasi Lawar Bali,u0181,Cok Dalduk,Denpasar Barat,"-8,663,065","1,151,524,981",4,82144831803
+t0089,Warung Nasi Lawar Bali,u0344,I Gede Budi Suartawan,Denpasar Barat,"-8,663,065","1,151,524,981",5,82144831803
+t0089,Warung Nasi Lawar Bali,u0494,Made Widya,Denpasar Barat,"-8,663,065","1,151,524,981",5,82144831803
+t0089,Warung Nasi Lawar Bali,u0570,ofan shofwan,Denpasar Barat,"-8,663,065","1,151,524,981",5,82144831803
+t0090,Warung Lawar Be Bali Penatih,u0078,Anome Bagoes,Denpasar,"-86,227,474","1,152,408,593",5,81226665050
+t0090,Warung Lawar Be Bali Penatih,u0265,Ery Santana,Denpasar,"-86,227,474","1,152,408,593",5,81226665050
+t0090,Warung Lawar Be Bali Penatih,u0365,I Wayan Kardiyasa,Denpasar,"-86,227,474","1,152,408,593",5,81226665050
+t0090,Warung Lawar Be Bali Penatih,u0366,I Wayan Kayun Kurniawan,Denpasar,"-86,227,474","1,152,408,593",1,81226665050
+t0090,Warung Lawar Be Bali Penatih,u0499,Man Ikeng,Denpasar,"-86,227,474","1,152,408,593",4,81226665050
+t0090,Warung Lawar Be Bali Penatih,u0579,Pande Baik,Denpasar,"-86,227,474","1,152,408,593",4,81226665050
+t0090,Warung Lawar Be Bali Penatih,u0671,Shinta Primandari,Denpasar,"-86,227,474","1,152,408,593",5,81226665050
+t0090,Warung Lawar Be Bali Penatih,u0691,Suwibawa Putra,Denpasar,"-86,227,474","1,152,408,593",5,81226665050
+t0091,Warung Nasi Lawar Bali OHAHE,u0003,16. Ni Kadek Ayu Sri Wahyuni,Denpasar,"-869,789","11,523,274",5,8982436229
+t0091,Warung Nasi Lawar Bali OHAHE,u0017,Adi Purwa,Denpasar,"-869,789","11,523,274",5,8982436229
+t0091,Warung Nasi Lawar Bali OHAHE,u0047,Alit Aditya,Denpasar,"-869,789","11,523,274",5,8982436229
+t0091,Warung Nasi Lawar Bali OHAHE,u0125,ayuudiah trisnaningsih,Denpasar,"-869,789","11,523,274",5,8982436229
+t0091,Warung Nasi Lawar Bali OHAHE,u0134,Bayu Muslim Hidayatullah,Denpasar,"-869,789","11,523,274",5,8982436229
+t0091,Warung Nasi Lawar Bali OHAHE,u0312,Guss Restu,Denpasar,"-869,789","11,523,274",5,8982436229
+t0091,Warung Nasi Lawar Bali OHAHE,u0587,perdi Sosiawan,Denpasar,"-869,789","11,523,274",5,8982436229
+t0091,Warung Nasi Lawar Bali OHAHE,u0713,TRI OKA MUSIC PROKECT,Denpasar,"-869,789","11,523,274",5,8982436229
+t0092,Warung Ayam Betutu,u0541,Nanang Nasir,Denpasar,"-8,644,054","115,191,094",4,85738733866
+t0093,Rumah Makan Babi Guling Karya Rebo,u0025,Aganto Seno,Badung,"-8,760,797","1,151,761,256",5,361703229
+t0093,Rumah Makan Babi Guling Karya Rebo,u0055,Anak Agung Ngurah Wisnawa,Badung,"-8,760,797","1,151,761,256",4,361703229
+t0093,Rumah Makan Babi Guling Karya Rebo,u0196,De Nacko,Badung,"-8,760,797","1,151,761,256",1,361703229
+t0093,Rumah Makan Babi Guling Karya Rebo,u0253,Eli yenti,Badung,"-8,760,797","1,151,761,256",5,361703229
+t0093,Rumah Makan Babi Guling Karya Rebo,u0271,Fanny Maylani,Badung,"-8,760,797","1,151,761,256",5,361703229
+t0093,Rumah Makan Babi Guling Karya Rebo,u0368,Ian Criddle,Badung,"-8,760,797","1,151,761,256",5,361703229
+t0093,Rumah Makan Babi Guling Karya Rebo,u0418,Julia Leoni,Badung,"-8,760,797","1,151,761,256",1,361703229
+t0093,Rumah Makan Babi Guling Karya Rebo,u0438,Kevin Januar,Badung,"-8,760,797","1,151,761,256",3,361703229
+t0093,Rumah Makan Babi Guling Karya Rebo,u0529,Moonlight Gaming,Badung,"-8,760,797","1,151,761,256",4,361703229
+t0093,Rumah Makan Babi Guling Karya Rebo,u0594,Prahasta Zulkarnain,Badung,"-8,760,797","1,151,761,256",5,361703229
+t0094,Babi Guling Handayani,u0083,Antony Aristian,Denpasar,"-8,640,178","1,152,189,821",5,361462792
+t0094,Babi Guling Handayani,u0085,Aprianus Hale,Denpasar,"-8,640,178","1,152,189,821",5,361462792
+t0094,Babi Guling Handayani,u0173,CIN JENYANA N,Denpasar,"-8,640,178","1,152,189,821",5,361462792
+t0094,Babi Guling Handayani,u0348,I Kadek Rudi Aristawan,Denpasar,"-8,640,178","1,152,189,821",5,361462792
+t0094,Babi Guling Handayani,u0363,I WAYAN ARIS PRATAMA YASA,Denpasar,"-8,640,178","1,152,189,821",5,361462792
+t0094,Babi Guling Handayani,u0493,Made Surya NN,Denpasar,"-8,640,178","1,152,189,821",1,361462792
+t0094,Babi Guling Handayani,u0502,Maniyak.resing,Denpasar,"-8,640,178","1,152,189,821",5,361462792
+t0094,Babi Guling Handayani,u0577,ovie tumober,Denpasar,"-8,640,178","1,152,189,821",5,361462792
+t0094,Babi Guling Handayani,u0582,Paskara Gerie,Denpasar,"-8,640,178","1,152,189,821",5,361462792
+t0094,Babi Guling Handayani,u0762,yande dul,Denpasar,"-8,640,178","1,152,189,821",5,361462792
+t0095,Babi Guling Renon,u0056,Anakpantai 168,Denpasar,"-86,739,036","1,152,444,149",5,361234208
+t0095,Babi Guling Renon,u0079,anta,Denpasar,"-86,739,036","1,152,444,149",5,361234208
+t0095,Babi Guling Renon,u0140,betty ipo ipo,Denpasar,"-86,739,036","1,152,444,149",5,361234208
+t0095,Babi Guling Renon,u0376,Indah Lim,Denpasar,"-86,739,036","1,152,444,149",5,361234208
+t0095,Babi Guling Renon,u0403,Janu Hardjoko,Denpasar,"-86,739,036","1,152,444,149",5,361234208
+t0095,Babi Guling Renon,u0519,melon murdock 13,Denpasar,"-86,739,036","1,152,444,149",4,361234208
+t0095,Babi Guling Renon,u0612,Putu Teja,Denpasar,"-86,739,036","1,152,444,149",5,361234208
+t0095,Babi Guling Renon,u0648,Rudy The Explorer,Denpasar,"-86,739,036","1,152,444,149",5,361234208
+t0095,Babi Guling Renon,u0653,Samuel abednego napitupulu,Denpasar,"-86,739,036","1,152,444,149",3,361234208
+t0095,Babi Guling Renon,u0695,Taufan Yudhistira,Denpasar,"-86,739,036","1,152,444,149",5,361234208
+t0096,Warung Makan Babi Guling Bu Manis,u0132,Baruna Sanjaya,Denpasar,"-86,890,345","1,152,074,667",1,85739082711
+t0096,Warung Makan Babi Guling Bu Manis,u0268,Fais Alkaustar,Denpasar,"-86,890,345","1,152,074,667",5,85739082711
+t0096,Warung Makan Babi Guling Bu Manis,u0554,Ni Luh Manis,Denpasar,"-86,890,345","1,152,074,667",4,85739082711
+t0096,Warung Makan Babi Guling Bu Manis,u0742,Wayan Wirawan,Denpasar,"-86,890,345","1,152,074,667",4,85739082711
+t0097,Rumah Makan Babi Guling Sari Nadi,u0063,Andreja Fabrijanic,Denpasar,"-87,169,119","1,152,064,659",4,81338750655
+t0097,Rumah Makan Babi Guling Sari Nadi,u0096,Aris Bani,Denpasar,"-87,169,119","1,152,064,659",5,81338750655
+t0097,Rumah Makan Babi Guling Sari Nadi,u0169,Christiana Ecca,Denpasar,"-87,169,119","1,152,064,659",4,81338750655
+t0097,Rumah Makan Babi Guling Sari Nadi,u0238,Dwi Andika,Denpasar,"-87,169,119","1,152,064,659",1,81338750655
+t0097,Rumah Makan Babi Guling Sari Nadi,u0259,Embun,Denpasar,"-87,169,119","1,152,064,659",5,81338750655
+t0097,Rumah Makan Babi Guling Sari Nadi,u0269,faith mardove,Denpasar,"-87,169,119","1,152,064,659",5,81338750655
+t0097,Rumah Makan Babi Guling Sari Nadi,u0281,Frans Akoit,Denpasar,"-87,169,119","1,152,064,659",5,81338750655
+t0097,Rumah Makan Babi Guling Sari Nadi,u0371,igede darsana ajoez,Denpasar,"-87,169,119","1,152,064,659",1,81338750655
+t0097,Rumah Makan Babi Guling Sari Nadi,u0474,Linz Vlog,Denpasar,"-87,169,119","1,152,064,659",1,81338750655
+t0097,Rumah Makan Babi Guling Sari Nadi,u0638,Rini Metia,Denpasar,"-87,169,119","1,152,064,659",5,81338750655
+t0098,Lawar Kuwir Yan Jinah,u0225,didik rabuana,Denpasar,"-87,169,119","1,152,064,659",5,85238057421
+t0098,Lawar Kuwir Yan Jinah,u0362,I Putu Adi Sukmawan,Denpasar,"-87,169,119","1,152,064,659",5,85238057421
+t0098,Lawar Kuwir Yan Jinah,u0400,jamur ketawa,Denpasar,"-87,169,119","1,152,064,659",5,85238057421
+t0098,Lawar Kuwir Yan Jinah,u0503,Mar,Denpasar,"-87,169,119","1,152,064,659",3,85238057421
+t0098,Lawar Kuwir Yan Jinah,u0605,Putu Dimas Bagoes Sumartha,Denpasar,"-87,169,119","1,152,064,659",5,85238057421
+t0098,Lawar Kuwir Yan Jinah,u0655,Sapta Buana,Denpasar,"-87,169,119","1,152,064,659",5,85238057421
+t0098,Lawar Kuwir Yan Jinah,u0658,satria putra,Denpasar,"-87,169,119","1,152,064,659",5,85238057421
+t0098,Lawar Kuwir Yan Jinah,u0660,Savitri Devi,Denpasar,"-87,169,119","1,152,064,659",5,85238057421
+t0098,Lawar Kuwir Yan Jinah,u0689,Suradnya I Wayan,Denpasar,"-87,169,119","1,152,064,659",4,85238057421
+t0098,Lawar Kuwir Yan Jinah,u0747,Wika Putri,Denpasar,"-87,169,119","1,152,064,659",5,85238057421
+t0099,Warung Lawar Khana,u0530,Mr Brassika,Denpasar,"-868,701","1,152,247,993",5,8563704077
+t0099,Warung Lawar Khana,u0547,Ngakan Oka,Denpasar,"-868,701","1,152,247,993",5,8563704077
+t0099,Warung Lawar Khana,u0739,Wayan Bitra,Denpasar,"-868,701","1,152,247,993",5,8563704077
+t0099,Warung Lawar Khana,u0759,X7drey,Denpasar,"-868,701","1,152,247,993",5,8563704077
+t0100,Liligundi Warung Jaje Bali,u0103,ARX Suryawan,Denpasar,"-861,549","115,193,693",5,361414452
+t0100,Liligundi Warung Jaje Bali,u0126,Babe Toto,Denpasar,"-861,549","115,193,693",5,361414452
+t0100,Liligundi Warung Jaje Bali,u0209,Desy Sulinda,Denpasar,"-861,549","115,193,693",3,361414452
+t0100,Liligundi Warung Jaje Bali,u0220,Dhoni Pasupati,Denpasar,"-861,549","115,193,693",5,361414452
+t0100,Liligundi Warung Jaje Bali,u0434,Ketut Sukarda,Denpasar,"-861,549","115,193,693",4,361414452
+t0100,Liligundi Warung Jaje Bali,u0435,Ketut Sutarma,Denpasar,"-861,549","115,193,693",4,361414452
+t0100,Liligundi Warung Jaje Bali,u0635,Riki Ardiansyah,Denpasar,"-861,549","115,193,693",5,361414452
+t0100,Liligundi Warung Jaje Bali,u0702,The Diary Of Mommy MJ,Denpasar,"-861,549","115,193,693",3,361414452
