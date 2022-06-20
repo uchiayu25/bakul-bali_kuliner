@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Bakul-Bali Kuliner</title>
+    <link rel="icon" href="{{ url_for('static', filename='img/logo hijau.png')}}" type="image/icon type">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Free HTML Templates" name="keywords">
+    <meta content="Free HTML Templates" name="description">
+
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="{{ url_for('static', filename='lib/owlcarousel/assets/owl.carousel.min.css')}}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='lib/lightbox/css/lightbox.min.css')}}" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="{{ url_for('static', filename='css/style.css')}}" rel="stylesheet">
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+</head>
+
+<body>
+    <!-- Header Start -->
+    <header id="header" class="fixed-top">
+        <div class="container-fluid bg-white mb-1">
+            <div class="row">
+                <div class="col-lg-1 d-none d-lg-block">
+                    <img class="img-fluid" src="{{ url_for('static', filename='img/logo hijau.png')}}" alt="Image">
+                </div>
+                <div>
+                    <nav class="navbar navbar-expand-lg bg-white navbar-light p-1">
+                        <a href="" class="navbar-brand d-block d-lg-none">
+                            <h1 class="m-0 display-4 text-primary">Bakul-Bali</h1>
+                        </a>
+                        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
+                            <div class="navbar-nav mr-auto py-0">
+                                <a href="/" class="nav-item nav-link">Beranda</a>
+                                <a href="/rekomendasi" class="nav-item nav-link">Rekomendasi</a>
+                                <a href="/about" class="nav-item nav-link active">Tentang Kami</a>
+                            </div>
+                            
+                            <!-- <a href="contact.html" class="btn btn-primary mr-3 d-none d-lg-block">Tentang Kami</a> -->
+                        </div>
+                    </nav>
+                </div>
+                <!-- <nav class="navbar navbar-expand-lg navbar-light flex-row ml-md-auto d-none d-md-flex">
+                    <form class="container-fluid ">
+                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-rounded-pill btn-outline-success" type="submit">Search</button>
+                    </form>
+                </nav> -->
+            </div>
+        </div>
+    </header>
+    <!-- Header End -->
+
+
+    <!-- Page Header Start -->
+    <!-- <div class="container-fluid bg-primary py-5 mb-5">
+        <div class="container py-5">
+            <div class="row align-items-center py-4">
+                <div class="col-md-6 text-center text-md-left">
+                    <h1 class="display-4 mb-4 mb-md-0 text-secondary text-uppercase">About</h1>
+                </div>
+                <div class="col-md-6 text-center text-md-right">
+                    <div class="d-inline-flex align-items-center">
+                        <a class="btn btn-sm btn-outline-light" href="">Home</a>
+                        <i class="fas fa-angle-double-right text-light mx-2"></i>
+                        <a class="btn btn-sm btn-outline-light disabled" href="">About</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <!-- Page Header End -->
+
+
+    <!-- Bakul Start -->
+    <div class="container-fluid bg-testimonial py-5 mt-5">
+        <div class="container py-5">
+            <div class="row">
+                <div class="col-lg-7 pt-lg-5 pb-5">
+                    <h1 class="section-title text-white mb-5">Bakul (Bali Kuliner)</h1>
+                    <div class="owl-carousel testimonial-carousel position-relative">
+                        <div class="d-flex flex-column text-white">
+                            <div class="d-flex align-items-center mb-3">
+                            </div>
+                            <p class="text-justify">Suatu aplikasi berbasis website rekomendasi yang membantu para traveler dalam mencari tempat makan lokal di Bali khususnya disekitar daerah Denpasar dan Badung berdasarkan rating dari tempat makan tersebut. Aplikasi ini merupakan ide dari kelompok Keluarga Ajik Pijar pada memenuhi penugasan akhir MBKM dalam program Foundation of AI for Gen-Z.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5" style="min-height: 400px;">
+                    <div class="position-relative h-100 rounded overflow-hidden">
+                        <img class="position-absolute w-100 h-100" src="{{ url_for('static', filename='img/beranda2.jpg')}}" style="object-fit: cover;">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
+
+    <!-- Video Modal Start -->
+    <!-- <div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>         -->
+                    <!-- 16:9 aspect ratio -->
+                    <!-- <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="" id="video"  allowscriptaccess="always" allow="autoplay"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <!-- Video Modal End -->
+
+
+    <!-- Features Start -->
+    <!-- <div class="container-fluid bg-light py-5">
+        <div class="container py-5">
+            <div class="row">
+                <div class="col-lg-7 pt-lg-5 pb-3">
+                    <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Why Choose Us</h6>
+                    <h1 class="mb-4 section-title">25 Years Experience In Cleaning Industry</h1>
+                    <p class="mb-4">Dolores lorem lorem ipsum sit et ipsum. Sadip sea amet diam dolore sed et. Sit rebum labore sit sit ut vero no sit. Et elitr stet dolor sed sit et sed ipsum et kasd ut. Erat duo eos et erat sed diam duo</p>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <h1 class="text-secondary mb-2" data-toggle="counter-up">225</h1>
+                            <h6 class="font-weight-semi-bold mb-sm-4">Our Cleaners</h6>
+                        </div>
+                        <div class="col-sm-4">
+                            <h1 class="text-secondary mb-2" data-toggle="counter-up">1050</h1>
+                            <h6 class="font-weight-semi-bold mb-sm-4">Happy Clients</h6>
+                        </div>
+                        <div class="col-sm-4">
+                            <h1 class="text-secondary mb-2" data-toggle="counter-up">2500</h1>
+                            <h6 class="font-weight-semi-bold mb-sm-4">Projects Done</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5" style="min-height: 400px;">
+                    <div class="position-relative h-100 rounded overflow-hidden">
+                        <img class="position-absolute w-100 h-100" src="img/feature.jpg" style="object-fit: cover;">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <!-- Features End -->
+
+
+    <!-- Team Start -->
+    <div class="container-fluid pt-5">
+        <div class="container py-5">
+            <div class="row align-items-end mb-4">
+                <div class="col-lg-6">
+                    <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Intip Intim Tim Keluarga Ajik Pijar</h6>
+                    <h1 class="section-title mb-3">Yuk Kenalan Dengan Kami Keluarga Ajik Pijar</h1>
+                </div>
+                <div class="col-lg-6">
+                    <h4 class="font-weight-normal text-muted mb-3">Dimanapun, Kapanpun, dan Siapapun Anggota Kelompoknya, Ketuanya Tetap Ajik Pijar - Panakne Si Ajik Pijar</h4>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="owl-carousel team-carousel position-relative">
+                        <div class="team d-flex flex-column text-center rounded overflow-hidden">
+                            <div class="position-relative">
+                                <div class="team-img">
+                                    <img class="img-fluid w-100" src="{{ url_for('static', filename='img/team-1.jpeg')}}" alt="">
+                                </div>
+                                <div class="team-social d-flex flex-column align-items-center justify-content-center bg-primary">
+                                    <a class="btn btn-secondary btn-social mb-2" href="https://www.instagram.com/uchiayu25/"><i class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-secondary btn-social" href="https://www.linkedin.com/in/ayu-triana-5b3198194"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                            <div class="d-flex flex-column bg-primary text-center py-4">
+                                <h5 class="font-weight-bold">Ni Putu Ayu Triana</h5>
+                                <p class="text-white m-0">Universitas Udayana</p>
+                            </div>
+                        </div>
+                        <div class="team d-flex flex-column text-center rounded overflow-hidden">
+                            <div class="position-relative">
+                                <div class="team-img">
+                                    <img class="img-fluid w-100" src="{{ url_for('static', filename='img/team-2.jpeg')}}" alt="">
+                                </div>
+                                <div class="team-social d-flex flex-column align-items-center justify-content-center bg-primary">
+                                    <a class="btn btn-secondary btn-social mb-2" href="https://www.instagram.com/eptkrwulndari/"><i class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-secondary btn-social" href="https://www.linkedin.com/in/desak-wulandari/"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                            <div class="d-flex flex-column bg-primary text-center py-4">
+                                <h5 class="font-weight-bold">Desak Putu Sri Wulandari</h5>
+                                <p class="text-white m-0">Universitas Udayana</p>
+                            </div>
+                        </div>
+                        <div class="team d-flex flex-column text-center rounded overflow-hidden">
+                            <div class="position-relative">
+                                <div class="team-img">
+                                    <img class="img-fluid w-100" src="{{ url_for('static', filename='img/team-3.jpeg')}}" alt="">
+                                </div>
+                                <div class="team-social d-flex flex-column align-items-center justify-content-center bg-primary">
+                                    <a class="btn btn-secondary btn-social mb-2" href="https://www.instagram.com/santicahyyani/"><i class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-secondary btn-social" href="https://www.linkedin.com/in/santi-cahyani-182597223/"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                            <div class="d-flex flex-column bg-primary text-center py-4">
+                                <h5 class="font-weight-bold">Ni Komang Santi Cahyani</h5>
+                                <p class="text-white m-0">Universitas Udayana</p>
+                            </div>
+                        </div>
+                        <div class="team d-flex flex-column text-center rounded overflow-hidden">
+                            <div class="position-relative">
+                                <div class="team-img">
+                                    <img class="img-fluid w-100" src="{{ url_for('static', filename='img/team-4.jpeg')}}" alt="">
+                                </div>
+                                <div class="team-social d-flex flex-column align-items-center justify-content-center bg-primary">
+                                    <a class="btn btn-secondary btn-social mb-2" href="https://www.instagram.com/wy.windaa/"><i class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-secondary btn-social" href="https://www.linkedin.com/in/ni-wayan-windayani-a6614b159/"><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                            <div class="d-flex flex-column bg-primary text-center py-4">
+                                <h5 class="font-weight-bold">Ni Wayan Windayani</h5>
+                                <p class="text-white m-0">Universitas Udayana</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Team End -->
+
+
+    <!-- Footer Start -->
+    <div class="container-fluid bg-dark text-white py-2 px-sm-3 px-md-5">
+        <div class="row pt-5">
+            <div class="col-lg-4 col-md-6 mb-5">
+                <h4 class="font-weight-semi-bold text-primary mb-4">Tentang Kami</h4>
+                <p class="mb-1">Keluarga Ajik Pijar</p>
+                <p class="mb-1">Prodi Informatika</p>
+                <p class="mb-1">Fakultas MIPA</p>
+                <p class="mb-1">Universitas Udayana</p>
+            </div>
+            <!-- <div class="col-lg-4 col-md-6 mb-5">
+                <h4 class="font-weight-semi-bold text-primary mb-4">Quick Links</h4>
+                <div class="d-flex flex-column justify-content-start">
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Beranda</a>
+                    <a class="text-white mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Rekomendasi</a>
+                    <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Tentang Kami</a>
+                </div>
+            </div> -->
+            <div class="col-lg-4 col-md-6 mb-5">
+                <h4 class="font-weight-semi-bold text-primary mb-4">Kontak Kami</h4>
+                <p class="mb-1">Masih Di Atas Jalan Di Bawah Langit No 0, Bali, Indonesia</p>
+                <a href="#"><p class="mb-1">mail.balikuliner@gmail.com</p></a>
+                <p class="mb-1">(0361) 8756321</p>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid bg-dark text-white border-top py-2 px-sm-3 px-md-5" style="border-color: #3E3E4E !important;">
+        <div class="row">
+            <div class="col-lg-12 text-center text-md-right mb-3 mb-md-0">
+                <p class="m-0 text-white">&copy; <a href="#">2022 BAKUL (BALI KULINER), INDONESIA</a>. All Rights Reserved.</p>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-primary px-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ url_for('static', filename='lib/easing/easing.min.js')}}"></script>
+    <script src="{{ url_for('static', filename='lib/waypoints/waypoints.min.js')}}"></script>
+    <script src="{{ url_for('static', filename='lib/counterup/counterup.min.js')}}"></script>
+    <script src="{{ url_for('static', filename='lib/owlcarousel/owl.carousel.min.js')}}"></script>
+    <script src="{{ url_for('static', filename='lib/isotope/isotope.pkgd.min.js')}}"></script>
+    <script src="{{ url_for('static', filename='lib/lightbox/js/lightbox.min.js')}}"></script>
+
+    <!-- Contact Javascript File -->
+    <script src="{{ url_for('static', filename='mail/jqBootstrapValidation.min.js')}}"></script>
+    <script src="{{ url_for('static', filename='mail/contact.js')}}"></script>
+
+    <!-- Template Javascript -->
+    <script src="{{ url_for('static', filename='js/main.js')}}"></script>
+</body>
+
+</html>
